@@ -1,0 +1,220 @@
+#Plan de Negocio
+
+## 1. Introducción (CNAE, misión, visión, …)
+
+### 1.1. CNAE
+
+Educacion en linea y tecnologia educativa.
+
+### 1.2. Misión
+
+Ofrecer una educación de calidad a través de la tecnología, para que las personas puedan aprender de manera eficiente y efectiva,
+mejorando la satisfacción de los estudiantes y las tasas de finalización de los cursos.
+
+### 1.3. Visión
+
+Ser la plataforma de educación en línea personalizada más grande y reconocida en el mundo, ofreciendo una amplia variedad de cursos y programas adaptados a las necesidades de cada estudiante.
+
+### 1.4. Valores
+
+- Calidad
+- Innovación
+- Personalización
+- Eficiencia
+- Ética
+
+## 2. Descripción de la Oportunidad de Negocio a (debe incluir obligatoriamente el origen, fuentes y/o motivos de la oportunidad identificada[debe justificarse su existencia y relevancia con datos o información real])
+
+### 2.1. Problema y origen de la oportunidad
+
+La educación en línea ha experimentado un crecimiento exponencial en los últimos años, debido a la necesidad de las personas de adquirir nuevas 
+habilidades y conocimientos para adaptarse a un mundo laboral en constante cambio. Segun datos proporcionados por Global Market Insights, 
+el mercado de e-learning se valoro en 399.3 mil millones de dolares en 2022 y se prevee que crezca a un ritmo de 14% CAGR entre 2023 y 2032. 
+Sin embargo, la mayoría de las plataformas de educación en línea ofrecen cursos genéricos que no se adaptan a las necesidades específicas de 
+cada estudiante, lo que resulta en una baja tasa de finalización de los cursos y una insatisfacción general de los usuarios.
+"La tasa de retención o finalización de cursos en línea varía, pero en general, se sitúa en un promedio bajo de alrededor del 10%." (Fuente: https://fastercapital.com/es/contenido/Tasas-de-retencion-de-cursos--Tasas-de-retencion-de-cursos--una-metrica-clave-para-el-exito-del-marketing.html)
+
+En el ámbito educativo, los estudiantes se encuentran con un desafío significativo: la falta de personalización en la enseñanza y el aprendizaje.
+Los cursos estándar suelen seguir un enfoque único que puede no tener en cuenta los diversos estilos de aprendizaje, ritmos individuales y conocimientos previos 
+de los estudiantes. Cuando los métodos de enseñanza no se ajustan a las necesidades individuales de los estudiantes, lo cual puede conducir a tasas más bajas 
+de retención de información, se corre el riesgo de dejar atrás a aquellos que podrían beneficiarse de un enfoque más personalizado.
+
+Por lo tanto, es crucial abordar esta falta de personalización en la educación para garantizar que todos los estudiantes tengan la oportunidad de alcanzar 
+su máximo potencial y experimentar un aprendizaje significativo y gratificante.
+
+## 3. Entrevista Problema
+
+### 3.1. Entrevista
+
+#### 3.1.1. Preguntas
+
+#### 3.1.2. Resultados
+
+## 4. Mapa de Empatia
+
+### 4.1. ¿Qué ve? 
+
+Ve desafíos académicos en sus cursos estándar, diferentes estilos de aprendizaje y la necesidad de obtener buenos resultados académicos.
+
+### 4.2. ¿Qué escucha? 
+
+Escucha la frustración de otros estudiantes por la falta de personalización en la enseñanza, a profesores sobre el contenido estándar del curso.
+   
+### 4.3. ¿Qué piensa y siente? 
+
+Piensa en aprender de manera más efectiva, siente frustración cuando no puede seguir el ritmo del curso y se preocupa por su desempeño académico y su futuro profesional.
+   
+### 4.4. ¿Qué dice y hace? 
+
+Expresa su deseo de cursos más adaptados, busca recursos adicionales para aprender y participa en grupos de estudio o busca ayuda de compañeros de clase.
+   
+### 4.5. ¿Cuáles son sus problemas y necesidades? 
+
+Necesita una educación que se adapte a su estilo de aprendizaje y ritmo, obtener buenos resultados académicos y herramientas para comprender mejor los temas difíciles.
+   
+### 4.6. ¿Qué le motiva? 
+
+La motivación para obtener un título universitario y tener éxito profesional, aprender nuevas habilidades y superar los desafíos académicos.
+
+## 5. Lienzo de Propuesta de Valor
+
+### 5.1. Tareas del cliente
+
+Los clientes buscan obtener información precisa y actualizada, adquirir habilidades prácticas aplicables y aprender de manera flexible. Esto implica buscar y seleccionar cursos, inscribirse en ellos, gestionar su progreso, interactuar con el contenido, participar en evaluaciones, comunicarse con profesores, colaborar con otros estudiantes y establecer conexiones. Además, desean mantenerse motivados, desarrollar confianza en su capacidad y experimentar un sentido de logro al completar cursos y alcanzar metas personales.
+
+### 5.2. Penas del Cliente
+
+Los clientes pueden enfrentar diversas dificultades al utilizar otra plataforma, como la frustración por la navegación complicada o la dificultad para encontrar información específica. También pueden experimentar preocupación por la sobrecarga de información, temores relacionados con costos ocultos y la insatisfacción con la calidad del contenido.
+
+### 5.3. Alegrías del Cliente
+
+Nuestra plataforma ofrece varias ventajas y alegrías para los clientes. Estos incluyen el ahorro de tiempo y dinero, y la comodidad. También, la satisfacción de encontrar contenido relacionado con los intereses y necesidades del cliente. Además, encontrarán gratificación personal al alcanzar metas educativas y profesionales.
+
+### 5.4. Bienes y Servicios
+
+Ofrecemos una amplia gama de servicios y recursos para satisfacer las necesidades educativas de nuestros clientes. Esto incluye una variedad de cursos en línea impartidos por expertos en la materia, una plataforma intuitiva y fácil de usar con herramientas interactivas para facilitar el aprendizaje, y un sólido soporte técnico y académico. Además, nos comprometemos a mantener el contenido actualizado y a mejorar continuamente nuestra oferta educativa.
+
+### 5.5. Creadores de Alegrías
+
+Nuestro equipo se esfuerza por crear una experiencia educativa positiva y enriquecedora para nuestros clientes. Esto implica ofrecer flexibilidad en términos de horarios y ubicación, así como la posibilidad de personalizar el aprendizaje según las preferencias individuales. También nos comprometemos a proporcionar una amplia variedad y calidad de contenido educativo, una interfaz intuitiva y fácil de usar, y una comunidad de apoyo activa para enriquecer la experiencia de aprendizaje.
+
+### 5.6. Quitapenas
+
+Nos esforzamos por abordar las preocupaciones y dificultades que pueden surgir al utilizar nuestra plataforma. Esto incluye mejorar la interfaz y la experiencia del usuario para hacerla más intuitiva y fácil de usar, así como garantizar la transparencia en los costos y ofrecer un soporte ampliado. Además, valoramos el feedback de nuestros usuarios y nos comprometemos a realizar mejoras continuas para satisfacer sus necesidades y expectativas en términos de calidad y relevancia educativa.
+
+## 6. Modelo de Negocio
+
+### 6.1. Socios clave 
+
+- Educadores y universidades que proveen cursos y material didáctico.
+- Especialistas en tecnología que respaldan la infraestructura de la plataforma, incluyendo inteligencia artificial para personalización del aprendizaje.
+- Organizaciones de Certificación que validan y dan prestigio a los certificados ofrecidos por los cursos completados en la plataforma.
+- Fuentes financieras que apoyan la sostenibilidad y expansión de la plataforma.
+
+### 6.2. Actividades clave
+
+- Actualización de Contenidos: Evaluación y selección de materiales educativos que se alineen con las necesidades de los usuarios.
+- Marketing y Promoción: Estrategias de marketing digital para atraer a nuevos usuarios y retener a los existentes.
+- Soporte y Servicio al Cliente: Asistencia continua a usuarios para resolver problemas técnicos o dudas académicas.
+
+### 6.3. Recursos Clave
+
+#### 6.3.1. Tangibles
+
+- Físicos: Infraestructura de hardware necesaria para soportar y alojar la plataforma de educación en línea, como servidores potentes, equipos de cómputo y sistemas de almacenamiento de datos. 
+- Económicos-financieros: Capital necesario para mantener la plataforma, promocionar el servicio educativo y pagar al equipo humano. 
+
+#### 6.3.2 Intangibles 
+
+- Equipo Humano: Un equipo de profesionales que incluye desarrolladores web, creadores de contenido, especialistas en marketing, personal de soporte y personal educativo.
+- Asistencia personal: Ofrecer asistencia individualizada para resolver dudas o problemas técnicos.
+- Comunidad de Aprendizaje: Crear foros y redes sociales donde los estudiantes puedan interactuar entre sí.
+- Creación colectiva: Obtener y actuar en base a las opiniones y sugerencias de los usuarios para mejorar continuamente la plataforma y crear valor.
+
+### 6.4. Canales
+
+#### 6.4.1. Tipo de canal
+
+- Sitio Web Oficial: El principal punto de acceso a los cursos y recursos de la plataforma.
+
+#### 6.4.2. Fase de canal
+
+1. Información: promoción en redes sociales, eventos y conferencias online. 
+2. Evaluación: Descuentos en inscripción a cursos.
+3. Compra: A través de nuestra página web. 
+4. Entrega: A través de la personalización de cursos en la página web.
+5. Postventa: Soporte y foros de consulta con profesores.
+
+### 6.5. Segmento de clientes
+
+Nuestro objetivo es crear valor para cualquier individuo que busque mejorar sus habilidades, conocimientos y perspectivas a través de una experiencia educativa en línea personalizada y de alta calidad.
+En específico, estudiante, profesionales en busca de capacitación y personas interesadas en aprendizaje personalizado.
+
+### 6.6. Estructura de costos
+
+#### 6.6.1. Costos por Recurso y Actividad
+
+- Costos de desarrollo de la plataforma web.
+- Costos de contenido educativo, como el pago a instructores, material de curso, derechos de autor y licencias de software.
+
+#### 6.6.2. Costos Fijos
+
+- Los salarios del personal. 
+
+#### 6.6.3. Costos Variables
+
+- Los costos de adquisición de contenido educativo, gastos de marketing y publicidad, y comisiones de transacción.
+
+#### 6.6.4. Economías de escala
+
+A medida que aumenta el volumen de usuarios y cursos, es posible lograr economías de escala en áreas como desarrollo de plataforma, adquisición de contenido y marketing, lo que reduce los costos unitarios.
+
+### 6.7. Fuentes de ingreso
+
+Nuestras principales fuentes de ingresos son las suscripciones de los clientes para acceder a la plataforma y al contenido educativo, la venta de cursos individuales, los ingresos por publicidad.
+
+## 7. Organización, RRHH (detallar organigrama) y equipo promotor (nombres, experiencia, formación, funciones asignadas en la empresa, y su participación en el capital).
+
+### 7.1. Organigrama
+
+- CEO: Responsable de la dirección general de la empresa, toma de decisiones estratégicas y representación de la empresa ante terceros.
+
+- Departamento de Tecnologia: Responsable de la dirección técnica de la empresa, supervisión del desarrollo de la plataforma y la infraestructura tecnológica. 
+
+    - Desarrollador Web: Responsable de la creación y mantenimiento de la plataforma web.
+    - Especialista en IA: Responsable de la implementación de inteligencia artificial para personalización del aprendizaje.
+    - Soporte Técnico: Responsable de la asistencia técnica a los usuarios.
+
+- Departamento de Marketing: Responsable de la dirección de marketing de la empresa, planificación y ejecución de estrategias de marketing y promoción.
+
+    - Especialista en Marketing Digital: Responsable de la promoción en redes sociales, eventos y conferencias online.
+    - Diseñador Gráfico: Responsable de la creación de material gráfico para campañas de marketing.
+    - Analista de Datos: Responsable del análisis de datos para evaluar el rendimiento de las estrategias de marketing.
+
+- Departamento de Contenido: Responsable de la dirección de contenido de la empresa, supervisión de la creación y actualización de contenido educativo.
+    
+    - Creador de Contenido: Responsable de la creación de material didáctico para los cursos.
+    - Editor de Contenido: Responsable de la revisión y edición del material educativo.
+
+- Departamento financiero: Responsable de la dirección financiera de la empresa, supervisión de la gestión financiera y la planificación presupuestaria.
+
+    - Contador: Responsable de la contabilidad y la gestión financiera de la empresa.
+    - Analista Financiero: Responsable del análisis financiero y la planificación presupuestaria.
+
+- Departamento de Recursos Humanos: Responsable de la dirección de recursos humanos de la empresa, supervisión de la gestión de personal y la planificación de recursos humanos.
+
+    - Gerente de Recursos Humanos: Responsable de la gestión de personal y la planificación de recursos humanos.
+    - Especialista en Selección de Personal: Responsable de la selección y contratación de personal.
+    - Especialista en Formación: Responsable de la formación y desarrollo del personal.
+    
+### 7.2. Equipo Promotor
+
+## 8. Analisis entorno competitivo
+
+### 8.1. Empresas las cuales se dediquen a la misma actividad o parecida a la nuestra
+
+- Coursera, INC
+
+### 8.2. Descripcion de la competencia (producto, precio, detalles de la empresa)
+
+
