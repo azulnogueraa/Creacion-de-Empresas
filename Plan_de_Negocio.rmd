@@ -1,4 +1,22 @@
-#Plan de Negocio
+---
+title: "Plan de Negocio"
+subtitle: "Link al repositorio: [https://github.com/azulnogueraa/Creacion-de-Empresas](https://github.com/azulnogueraa/Creacion-de-Empresas)"
+author:
+    - "Azul Noguera" 
+    - "Patricio Guledjian"
+    - "Rocio Gonzalez Cingolani"
+    - "Rafael Cabre"
+date: "`r Sys.Date()`"
+lang: "es-ES"
+output: 
+    pdf_document
+toc: true
+bibliography: bibliography.bib
+---
+\newpage
+
+\section*{Plan de Negocio}
+
 
 ## 1. Introducción (CNAE, misión, visión, …)
 
@@ -32,7 +50,10 @@ habilidades y conocimientos para adaptarse a un mundo laboral en constante cambi
 el mercado de e-learning se valoro en 399.3 mil millones de dolares en 2022 y se prevee que crezca a un ritmo de 14% CAGR entre 2023 y 2032. 
 Sin embargo, la mayoría de las plataformas de educación en línea ofrecen cursos genéricos que no se adaptan a las necesidades específicas de 
 cada estudiante, lo que resulta en una baja tasa de finalización de los cursos y una insatisfacción general de los usuarios.
-"La tasa de retención o finalización de cursos en línea varía, pero en general, se sitúa en un promedio bajo de alrededor del 10%." (Fuente: https://fastercapital.com/es/contenido/Tasas-de-retencion-de-cursos--Tasas-de-retencion-de-cursos--una-metrica-clave-para-el-exito-del-marketing.html)
+"La tasa de retención o finalización de cursos en línea varía, pero en general, se sitúa en un promedio bajo de alrededor del 10%." 
+
+Fuente: 
+[fastercapital.com](https://fastercapital.com/es/contenido/Tasas-de-retencion-de-cursos--Tasas-de-retencion-de-cursos--una-metrica-clave-para-el-exito-del-marketing.html)
 
 En el ámbito educativo, los estudiantes se encuentran con un desafío significativo: la falta de personalización en la enseñanza y el aprendizaje.
 Los cursos estándar suelen seguir un enfoque único que puede no tener en cuenta los diversos estilos de aprendizaje, ritmos individuales y conocimientos previos 
@@ -213,8 +234,135 @@ Nuestras principales fuentes de ingresos son las suscripciones de los clientes p
 
 ### 8.1. Empresas las cuales se dediquen a la misma actividad o parecida a la nuestra
 
-- Coursera, INC
+a.  [Coursera](https://www.coursera.org/)
 
-### 8.2. Descripcion de la competencia (producto, precio, detalles de la empresa)
+b. [Udemy](https://www.udemy.com/)
+
+c. [Duolingo](https://es.duolingo.com/)
+
+### 8.2. Descripcion de la competencia
+
+a. Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población (Massive Online Open Course), con cursos en inglés y otros idiomas como el español, francés, italiano y chino. Coursera ofrece cursos, tanto gratuitos como de pago, sobre temas variados a niveles universitarios, pero abiertos a todos los sectores de la población.  
+Fuente : [wikipedia.com](https://es.wikipedia.org/wiki/Coursera#cite_note-2)
+
+b. Udemy.com es una plataforma de aprendizaje en línea. Está dirigido a adultos profesionales. A diferencia de los programas académicos MOOC conducidos por tradicionales cursos de trabajo creados por las universidades, Udemy utiliza contenido de creadores en línea para vender y así conseguir ganancias. Udemy proporciona herramientas para que los usuarios puedan crear un curso, promocionarlo y ganar dinero con gastos de inscripción de los estudiantes. 
+Ninguno de los cursos de Udemy son actualmente equivalentes a la obtención de un título universitario. Los estudiantes toman cursos en gran parte simplemente como medio para mejorar sus habilidades. Algunos cursos generan crédito hacia certificación técnica. Udemy ha hecho un esfuerzo especial para atraer a empresas que buscan crear cursos de trabajo especialmente para empleados de su compañía.  
+Fuente: [wikipedia.com](https://es.wikipedia.org/wiki/Udemy)
+
+c. Duolingo es una plataforma web destinada al aprendizaje gratuito de idiomas y a la certificación del nivel de inglés.  
+Fuente : [wikipedia.com](https://es.wikipedia.org/wiki/Duolingo)
+
+#### 8.2.1 Producto
+
+#### 8.2.2 Precio
+
+#### 8.2.3 Detalles de la empresa 
+
+#### 8.2.4 Ingresos y beneficios[^1].
+
+
+a. 
+
+| Estimación de beneficios | Mar 2024 | Jun 2024 | Año actual 2024 | Año siguiente 2025 |
+|--------------------------|----------|----------|-----------------|--------------------|
+| Media Estimación         | 0        | 0.03     | 0.17            | 0.29               |
+| Estimado bajo            | -0.04    | -0.02    | 0               | 0.14               |
+| Estimado alto            | 0.03     | 0.05     | 0.25            | 0.41               |
+| BPA hace un año          | -0.03    | 0        | 0.01            | 0.17               |
+
+| Estimación de ingresos   | Mar 2024 | Jun 2024 | Año actual 2024 | Año siguiente 2025 |
+|--------------------------|----------|----------|-----------------|--------------------|
+| Media Estimación         | 170.43M  | 177.82M  | 736.45M         | 848.48M            |
+| Estimado bajo            | 167.6M   | 176M     | 732.33M         | 832.39M            |
+| Estimado alto            | 172.84M  | 179.4M   | 740.78M         | 870.48M            |
+| Ventas hace un año       | 147.64M  | 153.7M   | 635.76M         | 736.45M            |
+| Crecimiento de ventas    | 15.40%   | 15.70%   | 15.80%          | 15.20%             |
+
+
+b. 
+
+| Estimación de beneficios | Mar 2024 | Jun 2024 | Año actual 2024 | Año siguiente 2025 |
+|--------------------------|----------|----------|-----------------|--------------------|
+| Media Estimación         | -0,01    | 0        | 0.02            | 0.22               |
+| Estimado bajo            | -0.04    | -0.04    | -0.08           | 0.07               |
+| Estimado alto            | 0.01     | 0.02     | 0.12            | 0.36               |
+| BPA hace un año          | -0.06    | -0.01    | 0.01            | 0.02               |
+
+| Estimación de ingresos   | Mar 2024 | Jun 2024 | Año actual 2024 | Año siguiente 2025 |
+|--------------------------|----------|----------|-----------------|--------------------|
+| Media Estimación         | 194,89M  | 195,78M  | 802,54M         | 915,19M            |
+| Estimado bajo            | 194M     | 193,59M  | 793,7M          | 852,87M            |
+| Estimado alto            | 196,02M  | 198M     | 807,4M          | 945,2M             |
+| Ventas hace un año       | 176,43M  | 173,16M  | 728,94M         | 802,54M            |
+| Crecimiento de ventas    | 10,50%   | 13,10%   | 10,10%          | 14,00%             |
+
+
+c. 
+
+| Estimación de beneficios | Mar 2024 | Jun 2024 | Año actual 2024 | Año siguiente 2025 |
+|--------------------------|----------|----------|-----------------|--------------------|
+| Media Estimación         | 0,27     | 0,25     | 1,25            | 2,32               |
+| Estimado bajo            | 0,13	    | 0,09     | 0,65            | 1,36               |
+| Estimado alto            | 0,38     | 0,37     | 1,81            | 3,58               |
+| BPA hace un año          | -0.06    | 0,08     | 0,35            | 1,25               |
+
+| Estimación de ingresos   | Mar 2024 | Jun 2024 | Año actual 2024 | Año siguiente 2025 |
+|--------------------------|----------|----------|-----------------|--------------------|
+| Media Estimación         | 165,64M  | 176,8M   | 727,44M         | 923,08M            |
+| Estimado bajo            | 163,58M  | 174,4M   | 720,87M         | 900,6M             |
+| Estimado alto            | 167,54M  | 179,84M  | 743,1M          | 996,17M            |
+| Ventas hace un año       | 112,95M  | 126,84M  | 531,11M         | 727,44M            |
+| Crecimiento de ventas    | 46,60%   | 39,40%   | 37,00%          | 26,90%             |
+
+
+<!--No encontre de hace 5 años pero si encontre del año pasado y prediciones del próximo año -->
+
+#### 8.2.5 Número de empleados[^1].
+
+a. Empleados a tiempo completo: 1295
+
+b. Empleados a tiempo completo: 1443
+
+c. Empleados a tiempo completo: 720
+
+<!--No encontre de hace 5 años -->
+
+[^1]: Del ultimo año disponible y de 5 años hacia atras.
+
+
+
+### 9. Definición del mercado 
+
+#### Cliente objetivo
+
+#### Métricas [^3]
+[^3]: Como mínimo la de referencia.
+
+
+#### Estudio de mercado [^4]
+[^4]: Debe permitir justificar y apoyar todo aquello para lo cual no exista otro tipo de base o justificación; por ejemplo, el precio.
+
+
+#### TAM
+
+#### SAM
+
+#### SOM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
