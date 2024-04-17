@@ -300,10 +300,17 @@ por dolares EEUU
 [^1]: Del ultimo año disponible y de 5 años hacia atras.
 
 
-
 ### 9. Definición del mercado 
 
 #### Cliente objetivo
+
+El cliente objetivo de una empresa que proporciona cursos de educación en línea 
+son principalmente alumnos y personas interesadas en adquirir conocimientos de 
+forma flexible y personalizada. Estos clientes buscan la conveniencia de acceder a 
+la educación desde cualquier lugar, la posibilidad de aprender a su propio ritmo y 
+la eliminación de barreras geográficas. Además, la educación en línea atrae a 
+aquellos que buscan aprender de manera autodidacta y aprovechar la difusión masiva 
+del conocimiento a través de plataformas digitales.
 
 #### Métricas [^3]
 [^3]: Como mínimo la de referencia.
@@ -324,7 +331,37 @@ Número de acciones valiosas (ej: compras) por usuario/cliente en su relación c
 #### SOM
 
 
+### 10. Marketing
 
+#### Medios que usaremos para vender el producto
+
+Para atraer a los alumnos los principales canales de publicidad serán:
+
+##### Facebook
+Interacción orgánica: Se desarrollará una página oficial con publicaciones diarias
+administradas por un Community Manager las cuáles tendrán dos temas principalmente:
+ofrecer la propuesta de valor y publicaciones enfocadas a actualidad y tips en la 
+educación y/o estudio.
+Interacción Pauta: Se tendrá una pauta en Facebook para poder tener un crecimiento
+acelerado en donde se deberán de generar visibilidad a la plataforma y generación de
+afluencia a la página web.
+
+##### Instagram
+De forma similar, con apoyo del Community Manager, se tendrán publicaciones diarias
+mostrando la propuesta de valor, enfocado principalmente a videos.
+Pauta enfocada a generación de educadores: mostrando los beneficios de la plataforma
+realizando el comparativo con las clases tradicionales.
+Pauta enfocada a generación de alumnos: mostrando los beneficios de la plataforma en
+donde se enfatizará la grabación de clases, seguridad y disponibilidad de profesores.
+
+##### Google Ads
+Se tendrá una campaña digital que permita captar la búsqueda de palabras clave como
+clases particulares, educadores particulares, entre otros. Dicha campaña tendrá 
+una constanteevaluación en generación de tráfico a la web.
+
+#### Costo de la promocion
+
+#### Estimacion de personas atraidas por la promocion
 
 
 
