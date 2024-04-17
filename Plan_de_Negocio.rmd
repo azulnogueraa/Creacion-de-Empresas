@@ -361,6 +361,33 @@ una constanteevaluación en generación de tráfico a la web.
 
 #### Costo de la promocion
 
+Para el analisis de costo haremos uso del CPM (costo por mil impresiones),  
+un modelo de precios comúnmente utilizado en publicidad en línea, donde los 
+anunciantes pagan por cada mil impresiones de sus anuncios. El CPM es una métrica 
+de referencia utilizada para analizar el alcance de los anuncios, dado que nos 
+permite llegar a una audiencia más grande y aumentar la conciencia de marca a un 
+costo relativamente bajo.
+
+##### Facebook Ads 
+Según el enlace https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.,
+el CPM de una campaña en Facebook en España ronda generalmente entre 2 y 5€. 
+
+##### Instagram Ads 
+De acuerdo con el enlace https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/, 
+el CPM promedio en España para Instagram Ads oscila entre 1,97€ y 5,39€. Esta 
+estimación se basa en experiencias y resultados alcanzados con clientes, 
+considerando que los precios pueden variar dependiendo del objetivo publicitario.
+
+##### Google Ads 
+Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global de alrededor de $2.40.
+
+Es importante tener en cuenta que estas son solo estimaciones aproximadas y el costo 
+real puede variar dependiendo de varios factores como la audiencia objetivo, el 
+formato de anuncio y la competencia. Para obtener una estimación más precisa, puede 
+considerar trabajar con una agencia de marketing digital o utilizar una herramienta 
+como el Planificador de palabras clave de Google para estimar el costo de su campaña 
+en función de las palabras clave y opciones de orientación específicas que elija.
+
 #### Estimacion de personas atraidas por la promocion
 
 
