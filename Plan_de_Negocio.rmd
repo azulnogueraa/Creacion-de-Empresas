@@ -333,7 +333,7 @@ Número de acciones valiosas (ej: compras) por usuario/cliente en su relación c
 
 ### 10. Marketing
 
-#### Medios que usaremos para vender el producto
+#### 10.1. Medios que usaremos para vender el producto
 
 Para atraer a los alumnos los principales canales de publicidad serán:
 
@@ -359,7 +359,7 @@ Se tendrá una campaña digital que permita captar la búsqueda de palabras clav
 clases particulares, educadores particulares, entre otros. Dicha campaña tendrá 
 una constanteevaluación en generación de tráfico a la web.
 
-#### Costo de la promocion
+#### 10.2. Costo de la promocion
 
 Para el analisis de costo haremos uso del CPM (costo por mil impresiones),  
 un modelo de precios comúnmente utilizado en publicidad en línea, donde los 
@@ -379,7 +379,9 @@ estimación se basa en experiencias y resultados alcanzados con clientes,
 considerando que los precios pueden variar dependiendo del objetivo publicitario.
 
 ##### Google Ads 
-Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global de alrededor de $2.40.
+Aunque no se proporciona un dato específico para el CPM de Google Ads en España en 
+los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads 
+podría estar en un rango similar al global de alrededor de $2.40.
 
 Es importante tener en cuenta que estas son solo estimaciones aproximadas y el costo 
 real puede variar dependiendo de varios factores como la audiencia objetivo, el 
@@ -388,8 +390,44 @@ considerar trabajar con una agencia de marketing digital o utilizar una herramie
 como el Planificador de palabras clave de Google para estimar el costo de su campaña 
 en función de las palabras clave y opciones de orientación específicas que elija.
 
-#### Estimacion de personas atraidas por la promocion
+#### 10.3. Estimacion de personas atraidas por la promocion
 
+
+### 11. Produccion y operaciones
+
+#### 11.1 Producto Minimo Viable y localizacion
+
+##### Selección de Cursos Curados
+
+En lugar de crear un camino de aprendizaje personalizado, se podria seleccionar 
+una variedad de cursos que se adapten a diferentes estilos de aprendizaje e 
+intereses. Esto podría basarse en investigaciones de mercado y comentarios de 
+posibles usuarios.
+
+##### Aprendizaje Adaptativo Básico 
+
+Implementacion de funciones básicas de aprendizaje adaptativo, como ajustar el nivel 
+de dificultad de los cuestionarios según el rendimiento del estudiante. Esto podría 
+ser realizado manualmente por instructores o automáticamente utilizando algoritmos 
+simples.
+
+##### Encuestas de Retroalimentación 
+
+Encuestas de retroalimentación para recopilar información sobre la experiencia de 
+aprendizaje del estudiante. Esto ayudaría a identificar áreas de mejora y realizar 
+ajustes en el contenido del curso.
+
+##### Funciones Comunitarias Básicas
+
+Crea un foro o tablero de discusión sencillo donde los estudiantes puedan conectarse 
+entre sí y con los instructores. Este espacio podría servir para que los estudiantes 
+hagan preguntas, compartan recursos y brinden retroalimentación sobre el curso.
+
+Al centrarnos en estas funciones más simplificadas, podriamos crear un Producto 
+Mínimo Viable que aborde la falta de personalización en la educación en línea, 
+pero con menos esfuerzo de desarrollo. A medida que recopilemos comentarios de los 
+usuarios y validemos nuestro producto, podremos agregar gradualmente más funciones 
+y complejidad a la plataforma.
 
 
 
