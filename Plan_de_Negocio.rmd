@@ -429,7 +429,27 @@ pero con menos esfuerzo de desarrollo. A medida que recopilemos comentarios de l
 usuarios y validemos nuestro producto, podremos agregar gradualmente más funciones 
 y complejidad a la plataforma.
 
+### 11.2. Instalaciones, medios y equipos
 
+#### 11.2.1. Medios técnicos
+
+  1. Servidores de alta capacidad: Contamos con servidores robustos y escalables para alojar nuestra plataforma en línea y gestionar grandes volúmenes de datos generados por los usuarios y las interacciones de la inteligencia artificial.
+  2. Equipos informáticos: Proporcionamos a nuestro equipo de desarrollo y soporte técnico computadoras de última generación, con capacidad de procesamiento y memoria suficiente para realizar tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma.
+  3. Dispositivos móviles: Dado que nuestra plataforma es accesible desde dispositivos móviles, también hemos invertido en pruebas y desarrollo específico para garantizar una experiencia óptima en smartphones y tabletas.
+
+#### 11.2.2. Infraestructura
+
+  1. Red de Internet de alta velocidad: Contamos con una conexión a Internet de alta velocidad para garantizar que nuestros empleados puedan acceder sin problemas a la plataforma y trabajar eficientemente desde cualquier ubicación.
+  2. Sistemas de respaldo y recuperación de datos: Implementamos sistemas de respaldo automatizado y redundancia de datos para garantizar la seguridad y disponibilidad de la información crítica en caso de fallos o interrupciones.
+
+#### 11.2.3. Tecnología
+
+  1. Inteligencia Artificial (IA): Nuestra plataforma se basa en algoritmos de IA avanzados para analizar el progreso de los estudiantes, identificar áreas de mejora y personalizar el contenido educativo en tiempo real.
+  2. Herramientas de colaboración en línea: Utilizamos herramientas de colaboración en línea como Slack, Zoom y Google Workspace para facilitar la comunicación y la colaboración remota entre nuestro equipo distribuido.
+ 
+#### 11.2.4. Inversión
+
+La inversión en estos medios técnicos, infraestructuras y tecnologías ha sido significativa, reflejando nuestra dedicación a proporcionar una experiencia educativa en línea de alta calidad y un entorno de trabajo remoto efectivo. Esta inversión comprende tanto activos materiales (servidores, equipos informáticos) como activos intangibles (desarrollo de software, algoritmos de IA) y ha sido fundamental para el éxito y crecimiento de nuestra empresa.
 
 
 
