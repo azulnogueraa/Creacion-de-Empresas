@@ -449,8 +449,28 @@ y complejidad a la plataforma.
  
 #### 11.2.4. Inversión
 
-La inversión en estos medios técnicos, infraestructuras y tecnologías ha sido significativa, reflejando nuestra dedicación a proporcionar una experiencia educativa en línea de alta calidad y un entorno de trabajo remoto efectivo. Esta inversión comprende tanto activos materiales (servidores, equipos informáticos) como activos intangibles (desarrollo de software, algoritmos de IA) y ha sido fundamental para el éxito y crecimiento de nuestra empresa.
+La inversión en estos medios técnicos, infraestructuras y tecnologías ha sido significativa, reflejando nuestra dedicación a proporcionar una experiencia educativa en línea de alta calidad y un entorno de trabajo remoto efectivo. 
+Esta inversión comprende tanto activos materiales (servidores, equipos informáticos) como activos intangibles (desarrollo de software, algoritmos de IA) y ha sido fundamental para el éxito y crecimiento de nuestra empresa.
 
+### 11.3. Proceso de fabricación
+
+#### 11.3.1. Definición del sistema operativo y procedimientos
+
+    1. Desarrollo de Contenido: Nuestro equipo de creadores de contenido y expertos en la materia se encarga de desarrollar material educativo de alta calidad y relevante para los cursos ofrecidos en la plataforma.
+    2. Implementación de IA: Nuestro equipo de especialistas en IA trabaja en la implementación de algoritmos y modelos de aprendizaje automático para personalizar el contenido educativo y adaptarlo a las necesidades de cada estudiante.
+    3. Soporte Técnico: Nuestro equipo de soporte técnico brinda asistencia a los usuarios para resolver problemas técnicos, responder preguntas y garantizar una experiencia de usuario fluida y satisfactoria.
+    4. Actualización de Contenidos: Nuestro equipo de contenido se encarga de evaluar y seleccionar materiales educativos actualizados y relevantes para mantener la plataforma al día y ofrecer cursos de alta calidad.
+    5. Marketing y Promoción: Nuestro equipo de marketing desarrolla estrategias para promocionar la plataforma, atraer nuevos usuarios y retener a los existentes a través de campañas digitales, redes sociales y eventos en línea.
+
+#### 11.3.2. Capacidad y dimensiones
+
+    1. Capacidad de Producción: Nuestra plataforma tiene la capacidad de alojar una amplia variedad de cursos y programas educativos, atendiendo a una gran cantidad de usuarios simultáneamente. Nuestra capacidad de producción se medirá por la cantidad de cursos y material educativo que podamos lanzar mensualmente. 
+    2. Escalabilidad: Nuestra infraestructura tecnológica es escalable y puede adaptarse a las necesidades cambiantes de la demanda, permitiendo un crecimiento sostenible y una expansión eficiente.
+    3. Dimensiones: Nuestra plataforma es accesible desde cualquier dispositivo con conexión a Internet, lo que permite a los usuarios acceder a los cursos y recursos educativos desde cualquier lugar y en cualquier momento.
+
+#### 11.3.3. Punto de equilibrio
+
+El punto de equilibrio se alcanza cuando el número de suscripciones de estudiantes cubre nuestros costos fijos mensuales, que incluyen gastos de desarrollo de contenido, mantenimiento de la plataforma, y costos de personal.
 
 
 
