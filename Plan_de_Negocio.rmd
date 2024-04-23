@@ -377,136 +377,103 @@ por dolares EEUU
 
 \newpage
 
-### 9. Definición del mercado 
+## 9. Definición del mercado 
 
-#### Cliente objetivo
+### Cliente objetivo
 
-El cliente objetivo de una empresa que proporciona cursos de educación en línea 
-son principalmente alumnos y personas interesadas en adquirir conocimientos de 
-forma flexible y personalizada. Estos clientes buscan la conveniencia de acceder a 
-la educación desde cualquier lugar, la posibilidad de aprender a su propio ritmo y 
-la eliminación de barreras geográficas. Además, la educación en línea atrae a 
-aquellos que buscan aprender de manera autodidacta y aprovechar la difusión masiva 
-del conocimiento a través de plataformas digitales.
+El cliente objetivo de una empresa que proporciona cursos de educación en línea son principalmente alumnos y personas interesadas en adquirir conocimientos de forma flexible y personalizada. Estos clientes buscan la conveniencia de acceder a la educación desde cualquier lugar, la posibilidad de aprender a su propio ritmo y la eliminación de barreras geográficas. Además, la educación en línea atrae a 
+aquellos que buscan aprender de manera autodidacta y aprovechar la difusión masiva del conocimiento a través de plataformas digitales.
 
-#### Métricas
+### Métricas
 
-##### Referencia
+### Referencia
 
 
-##### Recurrencia
+### Recurrencia
 Número de acciones valiosas (ej: compras) por usuario/cliente en su relación con la empresa. 
 
-#### Estudio de mercado: Debe permitir justificar y apoyar todo aquello para lo cual no exista otro tipo de base o justificación; por ejemplo, el precio.
+### Estudio de mercado: Debe permitir justificar y apoyar todo aquello para lo cual no exista otro tipo de base o justificación; por ejemplo, el precio.
 
 
-#### TAM (Mercado Total)
+### TAM (Mercado Total)
 
-#### SAM (Mercado Objetivo)
+### SAM (Mercado Objetivo)
 
-#### SOM (Mercado Obtenible)
+### SOM (Mercado Obtenible)
 
 
 
 \newpage
 
-### 10. Marketing
+## 10. Marketing
 
-#### 10.1. Medios que usaremos para vender el producto
+### 10.1. Medios que usaremos para vender el producto
 
 Para atraer a los alumnos los principales canales de publicidad serán:
 
-##### Facebook
-Interacción orgánica: Se desarrollará una página oficial con publicaciones diarias
-administradas por un Community Manager las cuáles tendrán dos temas principalmente:
-ofrecer la propuesta de valor y publicaciones enfocadas a actualidad y tips en la 
-educación y/o estudio.
-Interacción Pauta: Se tendrá una pauta en Facebook para poder tener un crecimiento
-acelerado en donde se deberán de generar visibilidad a la plataforma y generación de
-afluencia a la página web.
+**Facebook**
 
-##### Instagram
-De forma similar, con apoyo del Community Manager, se tendrán publicaciones diarias
-mostrando la propuesta de valor, enfocado principalmente a videos.
-Pauta enfocada a generación de educadores: mostrando los beneficios de la plataforma
-realizando el comparativo con las clases tradicionales.
-Pauta enfocada a generación de alumnos: mostrando los beneficios de la plataforma en
-donde se enfatizará la grabación de clases, seguridad y disponibilidad de profesores.
+Interacción orgánica: Se desarrollará una página oficial con publicaciones diarias administradas por un Community Manager las cuáles tendrán dos temas principalmente:
 
-##### Google Ads
-Se tendrá una campaña digital que permita captar la búsqueda de palabras clave como
-clases particulares, educadores particulares, entre otros. Dicha campaña tendrá 
-una constanteevaluación en generación de tráfico a la web.
+- ofrecer la propuesta de valor y publicaciones enfocadas a actualidad y tips en la educación y/o estudio.
+- Interacción Pauta: Se tendrá una pauta en Facebook para poder tener un crecimiento acelerado en donde se deberán de generar visibilidad a la plataforma y generación de afluencia a la página web.
 
-#### 10.2. Costo de la promocion
+**Instagram**
 
-Para el analisis de costo haremos uso del CPM (costo por mil impresiones),  
-un modelo de precios comúnmente utilizado en publicidad en línea, donde los 
-anunciantes pagan por cada mil impresiones de sus anuncios. El CPM es una métrica 
-de referencia utilizada para analizar el alcance de los anuncios, dado que nos 
-permite llegar a una audiencia más grande y aumentar la conciencia de marca a un 
-costo relativamente bajo.
+De forma similar, con apoyo del Community Manager, se tendrán publicaciones diarias mostrando la propuesta de valor, enfocado principalmente a videos.
+Pauta enfocada a generación de educadores: mostrando los beneficios de la plataforma realizando el comparativo con las clases tradicionales.
+Pauta enfocada a generación de alumnos: mostrando los beneficios de la plataforma en donde se enfatizará la grabación de clases, seguridad y disponibilidad de profesores.
 
-##### Facebook Ads 
+**Google Ads**
+
+Se tendrá una campaña digital que permita captar la búsqueda de palabras clave como clases particulares, educadores particulares, entre otros. Dicha campaña tendrá una constanteevaluación en generación de tráfico a la web.
+
+### 10.2. Costo de la promocion
+
+Para el analisis de costo haremos uso del CPM (costo por mil impresiones), un modelo de precios comúnmente utilizado en publicidad en línea, donde los anunciantes pagan por cada mil impresiones de sus anuncios. El CPM es una métrica de referencia utilizada para analizar el alcance de los anuncios, dado que nos permite llegar a una audiencia más grande y aumentar la conciencia de marca a un costo relativamente bajo.
+
+**Facebook Ads**
+
 Según el enlace https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.,
 el CPM de una campaña en Facebook en España ronda generalmente entre 2 y 5€. 
 
-##### Instagram Ads 
+**Instagram Ads**
+
 De acuerdo con el enlace https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/, 
 el CPM promedio en España para Instagram Ads oscila entre 1,97€ y 5,39€. Esta 
 estimación se basa en experiencias y resultados alcanzados con clientes, 
 considerando que los precios pueden variar dependiendo del objetivo publicitario.
 
-##### Google Ads 
-Aunque no se proporciona un dato específico para el CPM de Google Ads en España en 
-los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads 
-podría estar en un rango similar al global de alrededor de $2.40.
+**Google Ads**
 
-Es importante tener en cuenta que estas son solo estimaciones aproximadas y el costo 
-real puede variar dependiendo de varios factores como la audiencia objetivo, el 
-formato de anuncio y la competencia. Para obtener una estimación más precisa, puede 
-considerar trabajar con una agencia de marketing digital o utilizar una herramienta 
-como el Planificador de palabras clave de Google para estimar el costo de su campaña 
-en función de las palabras clave y opciones de orientación específicas que elija.
+Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global de alrededor de $2.40.
 
-#### 10.3. Estimacion de personas atraidas por la promocion
+Es importante tener en cuenta que estas son solo estimaciones aproximadas y el costo real puede variar dependiendo de varios factores como la audiencia objetivo, el formato de anuncio y la competencia. Para obtener una estimación más precisa, puede considerar trabajar con una agencia de marketing digital o utilizar una herramienta como el Planificador de palabras clave de Google para estimar el costo de su campaña en función de las palabras clave y opciones de orientación específicas que elija.
+
+### 10.3. Estimacion de personas atraidas por la promocion
 
 En el ámbito de la educación, los conversion rates en las plataformas 
-publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar 
-significativamente. Para la industria educativa, se observa que:
+publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar significativamente. Para la industria educativa, se observa que:
 
-##### Facebook Ads
-Según datos recientes, la tasa de conversión promedio en Facebook Ads para el 
-sector educativo se sitúa en torno al 13.58% [^1]. Esta cifra refleja la efectividad 
-de las campañas publicitarias dirigidas a audiencias educativas en esta plataforma.
+**Facebook Ads**
+
+Según datos recientes, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^4]. Esta cifra refleja la efectividad de las campañas publicitarias dirigidas a audiencias educativas en esta plataforma.
 
 ![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook-ads-average-conversion-rate-3.jpg){ width=70% }
 
-##### Google Ads
-En el caso de Google Ads, la tasa de conversión promedio para el sector educativo 
-se encuentra alrededor del 3.39% para la Search y 0.50% para la Display [^2]. Esta 
-plataforma también muestra un rendimiento sólido en términos de conversion rates 
-para las instituciones educativas que utilizan sus servicios publicitarios.
+**Google Ads**
 
-##### Instagram Ads
-Para Instagram Ads, la tasa de conversión promedio en el sector educativo se sitúa 
-en aproximadamente el 1.08% [^3]. Aunque más baja que en otras plataformas, 
-Instagram sigue siendo un canal relevante para la promoción de servicios educativos.
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se encuentra alrededor del 3.39% para la Search y 0.50% para la Display [^5]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios.
 
-##### Estimación de Conversion Rate Final
+**Instagram Ads**
 
-Al promediar los conversion rates de Facebook Ads (13.58%), Google Ads (3.89%) e 
-Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de 
-conversion rate final de aproximadamente 6.18%. Esta cifra combinada refleja 
-la posible tasa de conversión que las instituciones educativas podrían esperar 
-al utilizar estas plataformas publicitarias para promocionar sus servicios.
+Para Instagram Ads, la tasa de conversión promedio en el sector educativo se sitúa en aproximadamente el 1.08% [^6]. Aunque más baja que en otras plataformas, Instagram sigue siendo un canal relevante para la promoción de servicios educativos.
 
-Al considerar estos datos, es importante recordar que los conversion rates pueden 
-variar según la estrategia de marketing, la calidad del contenido y la relevancia 
-de las campañas publicitarias en cada plataforma. Es fundamental realizar un 
-seguimiento continuo y ajustar las estrategias según los resultados obtenidos 
-para maximizar el rendimiento de las inversiones en publicidad digital en el 
-sector educativo.
+**Estimación de Conversion Rate Final**
+
+Al promediar los conversion rates de Facebook Ads (13.58%), Google Ads (3.89%) e Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de conversion rate final de aproximadamente 6.18%. Esta cifra combinada refleja la posible tasa de conversión que las instituciones educativas podrían esperar al utilizar estas plataformas publicitarias para promocionar sus servicios.
+
+Al considerar estos datos, es importante recordar que los conversion rates pueden variar según la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Es fundamental realizar un seguimiento continuo y ajustar las estrategias según los resultados obtenidos para maximizar el rendimiento de las inversiones en publicidad digital en el sector educativo.
 
 [^1]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
@@ -516,68 +483,54 @@ sector educativo.
 \newpage
 
 
-### 11. Produccion y operaciones
+## 11. Produccion y operaciones
 
-#### 11.1 Producto Minimo Viable y localizacion
+### 11.1 Producto Minimo Viable y localizacion
 
-##### Selección de Cursos Curados
+**Selección de Cursos Curados**
 
-En lugar de crear un camino de aprendizaje personalizado, se podria seleccionar 
-una variedad de cursos que se adapten a diferentes estilos de aprendizaje e 
-intereses. Esto podría basarse en investigaciones de mercado y comentarios de 
-posibles usuarios.
+En lugar de crear un camino de aprendizaje personalizado, se podria seleccionar una variedad de cursos que se adapten a diferentes estilos de aprendizaje e intereses. Esto podría basarse en investigaciones de mercado y comentarios de posibles usuarios.
 
-##### Aprendizaje Adaptativo Básico 
+**Aprendizaje Adaptativo Básico**
 
-Implementacion de funciones básicas de aprendizaje adaptativo, como ajustar el nivel 
-de dificultad de los cuestionarios según el rendimiento del estudiante. Esto podría 
-ser realizado manualmente por instructores o automáticamente utilizando algoritmos 
-simples.
+Implementacion de funciones básicas de aprendizaje adaptativo, como ajustar el nivel de dificultad de los cuestionarios según el rendimiento del estudiante. Esto podría ser realizado manualmente por instructores o automáticamente utilizando algoritmos simples.
 
-##### Encuestas de Retroalimentación 
+**Encuestas de Retroalimentación **
 
-Encuestas de retroalimentación para recopilar información sobre la experiencia de 
-aprendizaje del estudiante. Esto ayudaría a identificar áreas de mejora y realizar 
-ajustes en el contenido del curso.
+Encuestas de retroalimentación para recopilar información sobre la experiencia de aprendizaje del estudiante. Esto ayudaría a identificar áreas de mejora y realizar ajustes en el contenido del curso.
 
-##### Funciones Comunitarias Básicas
+**Funciones Comunitarias Básicas**
 
-Crea un foro o tablero de discusión sencillo donde los estudiantes puedan conectarse 
-entre sí y con los instructores. Este espacio podría servir para que los estudiantes 
-hagan preguntas, compartan recursos y brinden retroalimentación sobre el curso.
+Crea un foro o tablero de discusión sencillo donde los estudiantes puedan conectarse entre sí y con los instructores. Este espacio podría servir para que los estudiantes hagan preguntas, compartan recursos y brinden retroalimentación sobre el curso.
 
-Al centrarnos en estas funciones más simplificadas, podriamos crear un Producto 
-Mínimo Viable que aborde la falta de personalización en la educación en línea, 
-pero con menos esfuerzo de desarrollo. A medida que recopilemos comentarios de los 
-usuarios y validemos nuestro producto, podremos agregar gradualmente más funciones 
-y complejidad a la plataforma.
+Al centrarnos en estas funciones más simplificadas, podriamos crear un Producto Mínimo Viable que aborde la falta de personalización en la educación en línea, pero con menos esfuerzo de desarrollo. A medida que recopilemos comentarios de los usuarios y validemos nuestro producto, podremos agregar gradualmente más funciones y complejidad a la plataforma.
 
 ### 11.2. Instalaciones, medios y equipos
 
-#### 11.2.1. Medios técnicos
+**Medios técnicos**
 
   1. Servidores de alta capacidad: Contamos con servidores robustos y escalables para alojar nuestra plataforma en línea y gestionar grandes volúmenes de datos generados por los usuarios y las interacciones de la inteligencia artificial.
   2. Equipos informáticos: Proporcionamos a nuestro equipo de desarrollo y soporte técnico computadoras de última generación, con capacidad de procesamiento y memoria suficiente para realizar tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma.
   3. Dispositivos móviles: Dado que nuestra plataforma es accesible desde dispositivos móviles, también hemos invertido en pruebas y desarrollo específico para garantizar una experiencia óptima en smartphones y tabletas.
 
-#### 11.2.2. Infraestructura
+**Infraestructura**
 
   1. Red de Internet de alta velocidad: Contamos con una conexión a Internet de alta velocidad para garantizar que nuestros empleados puedan acceder sin problemas a la plataforma y trabajar eficientemente desde cualquier ubicación.
   2. Sistemas de respaldo y recuperación de datos: Implementamos sistemas de respaldo automatizado y redundancia de datos para garantizar la seguridad y disponibilidad de la información crítica en caso de fallos o interrupciones.
 
-#### 11.2.3. Tecnología
+**Tecnología**
 
   1. Inteligencia Artificial (IA): Nuestra plataforma se basa en algoritmos de IA avanzados para analizar el progreso de los estudiantes, identificar áreas de mejora y personalizar el contenido educativo en tiempo real.
   2. Herramientas de colaboración en línea: Utilizamos herramientas de colaboración en línea como Slack, Zoom y Google Workspace para facilitar la comunicación y la colaboración remota entre nuestro equipo distribuido.
  
-#### 11.2.4. Inversión
+**Inversión**
 
 La inversión en estos medios técnicos, infraestructuras y tecnologías ha sido significativa, reflejando nuestra dedicación a proporcionar una experiencia educativa en línea de alta calidad y un entorno de trabajo remoto efectivo. 
 Esta inversión comprende tanto activos materiales (servidores, equipos informáticos) como activos intangibles (desarrollo de software, algoritmos de IA) y ha sido fundamental para el éxito y crecimiento de nuestra empresa.
 
 ### 11.3. Proceso de fabricación
 
-#### 11.3.1. Definición del sistema operativo y procedimientos
+**Definición del sistema operativo y procedimientos**
 
   1. Desarrollo de Contenido: Nuestro equipo de creadores de contenido y expertos en la materia se encarga de desarrollar material educativo de alta calidad y relevante para los cursos ofrecidos en la plataforma.
   2. Implementación de IA: Nuestro equipo de especialistas en IA trabaja en la implementación de algoritmos y modelos de aprendizaje automático para personalizar el contenido educativo y adaptarlo a las necesidades de cada estudiante.
@@ -585,13 +538,13 @@ Esta inversión comprende tanto activos materiales (servidores, equipos informá
   4. Actualización de Contenidos: Nuestro equipo de contenido se encarga de evaluar y seleccionar materiales educativos actualizados y relevantes para mantener la plataforma al día y ofrecer cursos de alta calidad.
   5. Marketing y Promoción: Nuestro equipo de marketing desarrolla estrategias para promocionar la plataforma, atraer nuevos usuarios y retener a los existentes a través de campañas digitales, redes sociales y eventos en línea.
 
-#### 11.3.2. Capacidad y dimensiones
+**Capacidad y dimensiones**
 
   1. Capacidad de Producción: Nuestra plataforma tiene la capacidad de alojar una amplia variedad de cursos y programas educativos, atendiendo a una gran cantidad de usuarios simultáneamente. Nuestra capacidad de producción se medirá por la cantidad de cursos y material educativo que podamos lanzar mensualmente. 
   2. Escalabilidad: Nuestra infraestructura tecnológica es escalable y puede adaptarse a las necesidades cambiantes de la demanda, permitiendo un crecimiento sostenible y una expansión eficiente.
   3. Dimensiones: Nuestra plataforma es accesible desde cualquier dispositivo con conexión a Internet, lo que permite a los usuarios acceder a los cursos y recursos educativos desde cualquier lugar y en cualquier momento.
 
-#### 11.3.3. Punto de equilibrio
+**Punto de equilibrio**
 
 El punto de equilibrio se alcanza cuando el número de suscripciones de estudiantes cubre nuestros costos fijos mensuales, que incluyen gastos de desarrollo de contenido, mantenimiento de la plataforma, y costos de personal.
 
