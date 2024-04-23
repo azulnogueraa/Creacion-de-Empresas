@@ -457,7 +457,7 @@ En el sector educativo, las tasas de conversión en plataformas publicitarias cl
 
 Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^6]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas.
 
-![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=100% }
+![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=80% }
 
 **Google Ads**
 
