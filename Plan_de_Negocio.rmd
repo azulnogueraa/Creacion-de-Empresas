@@ -1,16 +1,18 @@
 ---
 title: "Plan de Negocio"
-subtitle: "Link al repositorio: [https://github.com/azulnogueraa/Creacion-de-Empresas](https://github.com/azulnogueraa/Creacion-de-Empresas)"
 author:
-    - "Azul Noguera" 
-    - "Patricio Guledjian"
-    - "Rocio Gonzalez Cingolani"
-    - "Rafael Cabre"
+- Azul Noguera
+- Patricio Guledjian
+- Rocio Gonzalez Cingolani
+- Rafael Cabre
 date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 lang: "es-ES"
-output: 
-    pdf_document
-toc: true
+subtitle: "Link al repositorio: [https://github.com/azulnogueraa/Creacion-de-Empresas](https://github.com/azulnogueraa/Creacion-de-Empresas)"
+toc: yes
 bibliography: bibliography.bib
 ---
 \newpage
@@ -409,77 +411,73 @@ Número de acciones valiosas (ej: compras) por usuario/cliente en su relación c
 
 ### 10.1. Medios que usaremos para vender el producto
 
-Para atraer a los alumnos los principales canales de publicidad serán:
-
 **Facebook**
 
-Interacción orgánica: Se desarrollará una página oficial con publicaciones diarias administradas por un Community Manager las cuáles tendrán dos temas principalmente:
-
-- ofrecer la propuesta de valor y publicaciones enfocadas a actualidad y tips en la educación y/o estudio.
-- Interacción Pauta: Se tendrá una pauta en Facebook para poder tener un crecimiento acelerado en donde se deberán de generar visibilidad a la plataforma y generación de afluencia a la página web.
+- Interacción Orgánica: Nos comprometemos a mantener una presencia en línea sólida y dinámica a través de nuestra página oficial, la cual será gestionada por un Community Manager altamente capacitado. Este profesional se encargará de garantizar un flujo constante de publicaciones diarias que se centrarán en dos áreas cruciales: la comunicación clara y convincente de nuestra propuesta de valor única, resaltando los aspectos diferenciadores de nuestro producto en el mercado; y la publicación de contenido relevante y actualizado relacionado con la educación y el estudio.
+- Publicidad Pautada: Implementaremos una estrategia publicitaria pautada en Facebook para potenciar el alcance y la visibilidad de nuestra plataforma. A través de campañas cuidadosamente diseñadas, buscaremos generar un crecimiento acelerado y dirigir un flujo constante de tráfico hacia nuestro sitio web.
 
 **Instagram**
 
-De forma similar, con apoyo del Community Manager, se tendrán publicaciones diarias mostrando la propuesta de valor, enfocado principalmente a videos.
-Pauta enfocada a generación de educadores: mostrando los beneficios de la plataforma realizando el comparativo con las clases tradicionales.
-Pauta enfocada a generación de alumnos: mostrando los beneficios de la plataforma en donde se enfatizará la grabación de clases, seguridad y disponibilidad de profesores.
+- Publicaciones Diarias: Trabajaremos en estrecha colaboración con nuestro Community Manager para desarrollar y mantener una programación de publicaciones diarias. Estas publicaciones se centrarán en transmitir nuestra propuesta de valor de manera efectiva, priorizando contenido visual de alta calidad, especialmente videos, para captar la atención de nuestra audiencia.
+- Campañas Dirigidas a Educadores: Implementaremos campañas publicitarias específicas dirigidas a educadores, destacando los beneficios clave de nuestra plataforma mediante comparaciones con métodos de enseñanza tradicionales. Enfocaremos nuestros esfuerzos en resaltar cómo nuestra solución puede mejorar la eficiencia, la interacción y los resultados en el proceso de enseñanza-aprendizaje.
+- Campañas Dirigidas a Alumnos: Asimismo, dirigiremos campañas publicitarias específicas hacia los potenciales alumnos. En estas campañas, pondremos énfasis en los beneficios tangibles que ofrecemos, como la capacidad de grabar clases, la seguridad de la plataforma y la disponibilidad de profesores altamente cualificados. Estos aspectos se presentarán de manera convincente para mostrar cómo nuestra plataforma puede mejorar significativamente la experiencia de aprendizaje para los estudiantes.
 
 **Google Ads**
 
-Se tendrá una campaña digital que permita captar la búsqueda de palabras clave como clases particulares, educadores particulares, entre otros. Dicha campaña tendrá una constanteevaluación en generación de tráfico a la web.
+- Campaña de Palabras Clave: Desarrollaremos una campaña publicitaria enfocada en capturar la búsqueda de palabras clave relevantes para nuestro sector, tales como "clases particulares" y "educadores particulares", entre otros términos clave. Esta estrategia nos permitirá posicionarnos de manera destacada en los resultados de búsqueda y llegar a una audiencia altamente motivada en su búsqueda de soluciones educativas.
+- Constante Evaluación y Optimización: Nos comprometemos a realizar una evaluación continua de nuestra campaña publicitaria en Google Ads para garantizar una generación efectiva de tráfico hacia nuestro sitio web. Esto implicará un monitoreo constante de los datos de rendimiento y la realización de ajustes estratégicos según sea necesario para maximizar el impacto y la eficacia de nuestra inversión publicitaria.
 
 ### 10.2. Costo de la promocion
 
-Para el analisis de costo haremos uso del CPM (costo por mil impresiones), un modelo de precios comúnmente utilizado en publicidad en línea, donde los anunciantes pagan por cada mil impresiones de sus anuncios. El CPM es una métrica de referencia utilizada para analizar el alcance de los anuncios, dado que nos permite llegar a una audiencia más grande y aumentar la conciencia de marca a un costo relativamente bajo.
+En nuestro análisis de costos, emplearemos el modelo del Costo por Mil Impresiones (CPM), una métrica fundamental en la publicidad en línea, que cuantifica el costo que los anunciantes incurren por cada mil impresiones de sus anuncios. Esta métrica nos permite evaluar el alcance y la efectividad de nuestras campañas publicitarias, ofreciendo una visión integral de nuestra inversión en marketing digital.
 
 **Facebook Ads**
 
-Según el enlace https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.,
-el CPM de una campaña en Facebook en España ronda generalmente entre 2 y 5€. 
+Según los datos proporcionados por Neo Attack [^4], el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. 
 
 **Instagram Ads**
 
-De acuerdo con el enlace https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/, 
-el CPM promedio en España para Instagram Ads oscila entre 1,97€ y 5,39€. Esta 
-estimación se basa en experiencias y resultados alcanzados con clientes, 
-considerando que los precios pueden variar dependiendo del objetivo publicitario.
+De acuerdo con la información de Dinamiza Digital [^5], el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€.
 
 **Google Ads**
 
-Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global de alrededor de $2.40.
+Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global, alrededor de $2.40.
 
-Es importante tener en cuenta que estas son solo estimaciones aproximadas y el costo real puede variar dependiendo de varios factores como la audiencia objetivo, el formato de anuncio y la competencia. Para obtener una estimación más precisa, puede considerar trabajar con una agencia de marketing digital o utilizar una herramienta como el Planificador de palabras clave de Google para estimar el costo de su campaña en función de las palabras clave y opciones de orientación específicas que elija.
+Es importante tener en cuenta que estas cifras son estimaciones aproximadas y que el costo real puede variar según diversos factores, como la audiencia objetivo, el formato del anuncio y la competencia en el mercado. Para obtener una estimación más precisa, es recomendable considerar la colaboración con una agencia de marketing digital o el uso de herramientas especializadas.
+
+[^4]: FUENTE: [¿Cuánto cuesta Facebook Ads?](https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.)
+
+[^5]: FUENTE: [Cuánto cuesta la publicidad en Instagram en España?](https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/)
 
 ### 10.3. Estimacion de personas atraidas por la promocion
 
-En el ámbito de la educación, los conversion rates en las plataformas 
-publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar significativamente. Para la industria educativa, se observa que:
+En el sector educativo, las tasas de conversión en plataformas publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden ofrecer una visión valiosa sobre la efectividad de nuestras campañas.
 
 **Facebook Ads**
 
-Según datos recientes, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^4]. Esta cifra refleja la efectividad de las campañas publicitarias dirigidas a audiencias educativas en esta plataforma.
+Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^6]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas.
 
-![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook-ads-average-conversion-rate-3.jpg){ width=70% }
+![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=100% }
 
 **Google Ads**
 
-En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se encuentra alrededor del 3.39% para la Search y 0.50% para la Display [^5]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios.
+En el caso de Google Ads, las tasas de conversión promedio para el sector educativo se sitúan alrededor del 3.39% para la búsqueda (Search) y 0.50% para la red de display (Display) [^7]. Estos números demuestran el sólido desempeño de Google Ads en términos de tasas de conversión para las instituciones educativas, tanto en la red de búsqueda como en la de display.
 
 **Instagram Ads**
 
-Para Instagram Ads, la tasa de conversión promedio en el sector educativo se sitúa en aproximadamente el 1.08% [^6]. Aunque más baja que en otras plataformas, Instagram sigue siendo un canal relevante para la promoción de servicios educativos.
+Para Instagram Ads, la tasa de conversión promedio en el sector educativo se estima en aproximadamente el 1.08% [^8]. Aunque esta tasa es más baja en comparación con otras plataformas, Instagram sigue siendo un canal relevante para la promoción de servicios educativos, especialmente entre audiencias más jóvenes.
 
 **Estimación de Conversion Rate Final**
 
-Al promediar los conversion rates de Facebook Ads (13.58%), Google Ads (3.89%) e Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de conversion rate final de aproximadamente 6.18%. Esta cifra combinada refleja la posible tasa de conversión que las instituciones educativas podrían esperar al utilizar estas plataformas publicitarias para promocionar sus servicios.
+Al promediar las tasas de conversión de Facebook Ads (13.58%), Google Ads (3.89%) e Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de la tasa de conversión final de aproximadamente el 6.18%. Esta cifra combinada ofrece una visión general de la posible efectividad de nuestras campañas publicitarias en estas plataformas para promocionar servicios educativos.
 
-Al considerar estos datos, es importante recordar que los conversion rates pueden variar según la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Es fundamental realizar un seguimiento continuo y ajustar las estrategias según los resultados obtenidos para maximizar el rendimiento de las inversiones en publicidad digital en el sector educativo.
+Es crucial tener en cuenta que las tasas de conversión pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
 
-[^1]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
+[^6]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^2]: FUENTE: [Benchmarks de Google Ads para tu industria.](https://www.linkedin.com/pulse/benchmarks-de-google-ads-para-tu-industria-pedro-cerrilla/)
+[^7]: FUENTE: [Benchmarks de Google Ads para tu industria.](https://www.linkedin.com/pulse/benchmarks-de-google-ads-para-tu-industria-pedro-cerrilla/)
 
-[^3]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+[^8]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
 \newpage
 
 
