@@ -77,24 +77,49 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
 ### 3.1 Preguntas
 
 - ¿Cuál es tu edad?
+  a. Menos de 17 años
+  b. Entre 17 y 25 años
+  c. Mayor a 25 años
 
 - ¿Estás actualmente estudiando?
+  a. Si
+  b. No
 
 - ¿Cuál es tu nivel educativo actual?
+  a. Primaria
+  b. Secundaria
+  c. Universitaria
+  d. Postgrado
+  e. otra
 
 - ¿Qué dificultades has enfrentado con los métodos de enseñanza que frecuentas?
+  a. Falta de personalización
+  b. Ritmo de aprendizaje inadecuado
+  c. Dificultad para entender el contenido
+  d. No he enfrentado dificultades
+  e. Otra
 
 - ¿Consideras que tus necesidades individuales de aprendizaje están siendo satisfechas?
+  a. Si
+  b. No
 
 - ¿Has utilizado plataformas de educación en línea?
-
+  a. Si
+  b. No
+  
 - ¿Cuánto estarías dispuesto/a a pagar mensualmente en tu educación en línea?
+  a. De 1€ a 15€ 
+  b. De 15€ a 30€
+  c. De 30€ a 50€
+  d. Más de 50€
 
-- ¿Recomendarías nuestra plataforma de cursos en línea personalizados?
+- ¿Te apuntarías a cursos en una plataforma que te deje tener tus tiempos y se adapte a tu aprendizaje?
+  a. Si
+  b. No
 
 
 ### 3.2 Resultados
-
+##################FALTA COMPLETAR########################
 
 \newpage
 
@@ -143,7 +168,7 @@ Nuestra plataforma ofrece varias ventajas y alegrías para los clientes. Estos i
 
 ### 5.4. Bienes y Servicios
 
-Ofrecemos una amplia gama de servicios y recursos para satisfacer las necesidades educativas de nuestros clientes. Esto incluye una variedad de cursos en línea impartidos por expertos en la materia, una plataforma intuitiva y fácil de usar con herramientas interactivas para facilitar el aprendizaje, y un sólido soporte técnico y académico. Además, nos comprometemos a mantener el contenido actualizado y a mejorar continuamente nuestra oferta educativa.
+Ofrecemos una amplia gama de servicios y recursos para satisfacer las necesidades educativas de nuestros clientes. Esto incluye una variedad de cursos en línea en el área de la tecnología, impartidos por expertos en la materia, una plataforma intuitiva y fácil de usar con herramientas interactivas para facilitar el aprendizaje, y un sólido soporte técnico y académico. Además, nos comprometemos a mantener el contenido actualizado y a mejorar continuamente nuestra oferta educativa.
 
 ### 5.5. Creadores de Alegrías
 
@@ -232,41 +257,53 @@ Nuestras principales fuentes de ingresos son las suscripciones de los clientes p
 
 \newpage
 
-## 7. Organización, RRHH (detallar organigrama) y equipo promotor (nombres, experiencia, formación, funciones asignadas en la empresa, y su participación en el capital).
+## 7. Organización: Organigrama y equipo promotor
 
 ### 7.1. Organigrama
 
-- CEO: Responsable de la dirección general de la empresa, toma de decisiones estratégicas y representación de la empresa ante terceros.
+![Organigrama](img/Organigrama.png){ width=100% }
 
-- CTO (Chief Tecnology Officer): Responsable de la dirección técnica de la empresa, supervisión del desarrollo de la plataforma y la infraestructura tecnológica. 
 
-    - Desarrollador Web: Responsable de la creación y mantenimiento de la plataforma web.
-    - Especialista en IA: Responsable de la implementación de inteligencia artificial para personalización del aprendizaje.
-    - Soporte Técnico: Responsable de la asistencia técnica a los usuarios.
-
-- CMO (Chief Marketing Officer): Responsable de la dirección de marketing de la empresa, planificación y ejecución de estrategias de marketing y promoción.
-
-    - Especialista en Marketing Digital: Responsable de la promoción en redes sociales, eventos y conferencias online.
-    - Diseñador Gráfico: Responsable de la creación de material gráfico para campañas de marketing.
-    - Analista de Datos: Responsable del análisis de datos para evaluar el rendimiento de las estrategias de marketing.
-
-- CCO (Chief Content Officer): Responsable de la dirección de contenido de la empresa, supervisión de la creación y actualización de contenido educativo.
-    
-    - Creador de Contenido: Responsable de la creación de material didáctico para los cursos.
-    - Editor de Contenido: Responsable de la revisión y edición del material educativo.
-
-- CFO (Chief Finantial Officer): Responsable de la dirección financiera de la empresa, supervisión de la gestión financiera y la planificación presupuestaria.
-
-    - Contador: Responsable de la contabilidad y la gestión financiera de la empresa.
-    - Analista Financiero: Responsable del análisis financiero y la planificación presupuestaria.
-
-- HR (Human Resources): Responsable de la dirección de recursos humanos de la empresa, supervisión de la gestión de personal y la planificación de recursos humanos.
-
-    - Gerente de Recursos Humanos: Responsable de la gestión de personal y la planificación de recursos humanos.
-    - Especialista en Selección de Personal: Responsable de la selección y contratación de personal.
-    - Especialista en Formación: Responsable de la formación y desarrollo del personal.
-    
 ### 7.2. Equipo Promotor
+
+**Azul Noguera** *Estratega Principal (CEO)*
+
+- Experiencia: Más de 10 años en el sector de la educación y la tecnología, incluyendo roles de dirección en empresas de e-learning.
+- Habilidades Clave: Liderazgo estratégico, visión empresarial, gestión de equipos multidisciplinarios, desarrollo de negocios.
+- Funciones Asignadas: Toma de decisiones estratégicas, representación ante terceros, planificación general del negocio.
+
+**Patricio Guledjian** *Director de Tecnología (CTO)*
+
+- Experiencia: Ingeniero informático con 8 años de experiencia en desarrollo web y aplicaciones tecnológicas para la educación.
+- Habilidades Clave: Desarrollo de software, gestión de infraestructura tecnológica, implementación de inteligencia artificial.
+- Funciones Asignadas: Supervisión del desarrollo de la plataforma, implementación de tecnologías avanzadas, garantía de calidad y seguridad.
+
+**Rocio Gonzalez Cingolani** *Directora de Contenido Educativo (CCO)*
+
+- Experiencia: Pedagoga con 12 años de experiencia en diseño curricular y desarrollo de material educativo.
+- Habilidades Clave: Creación de contenido didáctico, adaptación curricular, evaluación de aprendizaje.
+- Funciones Asignadas: Supervisión de la calidad del contenido, selección de cursos y materiales, asegurando el cumplimiento de estándares pedagógicos.
+
+\newpage
+
+**Rafael Cabre** *Director de Marketing y Ventas (CMO)*
+
+- Experiencia: Profesional en marketing con 7 años de experiencia en estrategias digitales y promoción de servicios educativos.
+- Habilidades Clave: Marketing digital, gestión de campañas publicitarias, análisis de mercado, desarrollo de marca.
+- Funciones Asignadas: Planificación y ejecución de estrategias de marketing, captación de usuarios, análisis de datos y rendimiento.
+
+**Santiago Mendoza** *Director Financiero (CFO)*
+
+- Experiencia: Contador público con más de 15 años de experiencia en finanzas corporativas y gestión financiera.
+- Habilidades Clave: Análisis financiero, planificación presupuestaria, gestión de inversiones, obtención de financiamiento.
+- Funciones Asignadas: Elaboración de presupuestos, gestión de flujo de caja, análisis de rentabilidad, negociación con inversores y entidades financieras.
+
+
+**Lucila Chaves** *Jefa de Recursos Humanos (HR)*
+
+- Experiencia: Especialista en recursos humanos con más de 13 años de experiencia en reclutamiento, capacitación y desarrollo del talento en empresas tecnológicas y educativas.
+- Habilidades Clave: Gestión de recursos humanos, desarrollo organizacional, legislación laboral, comunicación interna.
+- Funciones Asignadas: Dirección de las políticas de recursos humanos, reclutamiento y selección de personal, desarrollo y capacitación de empleados, mantenimiento de un ambiente laboral positivo y productivo.
 
 \newpage
 
