@@ -18,20 +18,19 @@ bibliography: bibliography.bib
 \section*{Plan de Negocio}
 
 
-## 1. Introducción (CNAE, misión, visión, …)
+## 1. Introducción
 
-### 1.1. CNAE
+### 1.1. CNAE (Clasificación Nacional de Entidades Económicas)
 
-Educacion en linea y tecnologia educativa.
+Educación.
 
 ### 1.2. Misión
 
-Ofrecer una educación de calidad a través de la tecnología, para que las personas puedan aprender de manera eficiente y efectiva,
-mejorando la satisfacción de los estudiantes y las tasas de finalización de los cursos.
+Ofrecer una educación personalizada y de alta calidad a través de la tecnología, para que las personas puedan aprender de manera eficiente y efectiva, mejorando la satisfacción de los estudiantes y las tasas de finalización de los cursos.
 
 ### 1.3. Visión
 
-Ser la plataforma de educación en línea personalizada más grande y reconocida en el mundo, ofreciendo una amplia variedad de cursos y programas adaptados a las necesidades de cada estudiante.
+Ser la plataforma de educación en línea más grande y reconocida en el mundo, ofreciendo una amplia variedad de cursos y programas adaptados a las necesidades de cada estudiante.
 
 ### 1.4. Valores
 
@@ -41,35 +40,64 @@ Ser la plataforma de educación en línea personalizada más grande y reconocida
 - Eficiencia
 - Ética
 
-## 2. Descripción de la Oportunidad de Negocio a (debe incluir obligatoriamente el origen, fuentes y/o motivos de la oportunidad identificada[debe justificarse su existencia y relevancia con datos o información real])
 
-### 2.1. Problema y origen de la oportunidad
+\newpage
 
-La educación en línea ha experimentado un crecimiento exponencial en los últimos años, debido a la necesidad de las personas de adquirir nuevas 
-habilidades y conocimientos para adaptarse a un mundo laboral en constante cambio. Segun datos proporcionados por Global Market Insights, 
-el mercado de e-learning se valoro en 399.3 mil millones de dolares en 2022 y se prevee que crezca a un ritmo de 14% CAGR entre 2023 y 2032. 
-Sin embargo, la mayoría de las plataformas de educación en línea ofrecen cursos genéricos que no se adaptan a las necesidades específicas de 
-cada estudiante, lo que resulta en una baja tasa de finalización de los cursos y una insatisfacción general de los usuarios.
-"La tasa de retención o finalización de cursos en línea varía, pero en general, se sitúa en un promedio bajo de alrededor del 10%." 
+## 2. Descripción de la Oportunidad de Negocio
 
-Fuente: 
-[fastercapital.com](https://fastercapital.com/es/contenido/Tasas-de-retencion-de-cursos--Tasas-de-retencion-de-cursos--una-metrica-clave-para-el-exito-del-marketing.html)
+El avance tecnológico ha registrado una trayectoria ascendente sin precedentes en las últimas décadas. Este progreso ha catalizado una transformación paralela en el dominio educativo, propulsando el e-learning a un primer plano en la entrega de conocimiento y habilidades. La digitalización de la educación no solo ha democratizado el acceso a la información, sino que también ha ampliado las fronteras del aula tradicional, permitiendo un aprendizaje más flexible y autodirigido.
 
-En el ámbito educativo, los estudiantes se encuentran con un desafío significativo: la falta de personalización en la enseñanza y el aprendizaje.
-Los cursos estándar suelen seguir un enfoque único que puede no tener en cuenta los diversos estilos de aprendizaje, ritmos individuales y conocimientos previos 
-de los estudiantes. Cuando los métodos de enseñanza no se ajustan a las necesidades individuales de los estudiantes, lo cual puede conducir a tasas más bajas 
-de retención de información, se corre el riesgo de dejar atrás a aquellos que podrían beneficiarse de un enfoque más personalizado.
+En el vértice de la crisis sanitaria global, la pandemia de COVID-19 se desempeño como catalizador para una adopción masiva de la educación en línea. El confinamiento y la interrupción de la enseñanza presencial urgieron a una migración acelerada hacia plataformas digitales. Según una encuesta realizada en julio del año 2020 por la escuela de negocios Online Business School (OBS)[^1] de España, el 84% de los 30 países analizados en la región había elegido internet como uno de sus sistemas de educación a distancia. 
 
-Por lo tanto, es crucial abordar esta falta de personalización en la educación para garantizar que todos los estudiantes tengan la oportunidad de alcanzar 
-su máximo potencial y experimentar un aprendizaje significativo y gratificante.
+![Sistemas de entrega de educación a distancia utilizados en medio de la pandemia de COVID-19](img/internet_ante_papel.png){ width=70% }
+
+Posteriormente, una vez atenuado el impacto directo de la pandemia, la inercia del aprendizaje en línea perduró. Muchos estudiantes, ahora acostumbrados al entorno digital, continuaron favoreciendo esta modalidad, apoyados por la escalada tecnológica que seguía enriqueciendo esta experiencia. El impulso continuo del e-learning responde también a una demanda creciente de capacitación constante, vital en un mercado laboral que se reinventa continuamente. Según estimaciones de Global Market Insights, la valuación del mercado de e-learning en $399.3 mil millones de dolares en 2022 y su proyectado crecimiento a una tasa compuesta anual del 14% hasta 2032, subraya esta tendencia.
+
+Sin embargo, el escenario actual de la educación en línea destaca un marcado contraste entre la disponibilidad de recursos educativos y la efectividad de su implementación. La mayoría de las plataformas digitales persisten en ofrecer programas estandarizados, con falta de la flexibilidad necesaria para atender las demandas personalizadas de aprendizaje. Esta homogeneización del contenido pedagógico conlleva a deficiencias en la retención de conocimientos por parte de los estudiantes, evidenciado por las tasas de finalización de cursos que, de manera preocupante, suelen rondar el 10%[^2]. Tal fenómeno no solo sugiere una desconexión entre la instrucción y la diversidad de estilos de aprendizaje, sino que también plantea el riesgo de desaprovechar el potencial académico de estudiantes que requerirían una metodología más ajustada a sus particularidades. Este desafío en el panorama educativo actual subraya la necesidad de una plataforma de aprendizaje electrónico que privilegie la adaptabilidad y personalización en su oferta curricular, alineándose estrechamente con las aptitudes y aspiraciones individuales de cada estudiante.
+
+No obstante, investigaciones recientes del año 2023 realizadas por la Online Business School (OBS)[^3] de España anticipan un aumento significativo en las inscripciones a programas en línea, destacando el ámbito de la tecnología con un crecimiento proyectado del 33% en los próximos cinco años. Esta tendencia subraya una oportunidad primordial para desarrollar cursos en línea especializados en tecnología. A continuación, se incluye una figura que ilustra detalladamente estos hallazgos, fundamentando la viabilidad y el potencial de esta iniciativa.
+
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/ingenieria_tecnologia.png){ width=70% }
+
+En conclusión, la rápida evolución tecnológica y la transformación del paisaje educativo presentan una oportunidad singular para innovar en la entrega de educación en línea. La persistencia de desafíos, como la estandarización excesiva y la baja tasa de finalización de cursos, no solo destaca las deficiencias en las plataformas actuales sino que también subraya el potencial para una plataforma que ofrezca soluciones personalizadas y adaptativas. Aprovechando las tendencias emergentes y las necesidades cambiantes del mercado laboral, se revela un campo fértil para el desarrollo de una oferta educativa que no solo mejore la experiencia del aprendizaje digital sino que también incremente la efectividad del mismo. Con el respaldo de datos y proyecciones que auguran un crecimiento robusto en la demanda de educación técnica en línea, nuestro proyecto está posicionado estratégicamente para liderar esta próxima ola de innovación educativa, asegurando que la educación en línea sea más accesible, relevante y fructífera para todos los estudiantes.
+
+
+[^1]: FUENTE: [OBS Business School -El Estudiante Universitario en Línea. Tendencias y Perspectivas.](https://marketing.onlinebschool.es/Prensa/Informes/Informe%20OBS%20E-learning%202022.pdf)
+
+[^2]: FUENTE: [fastercapital.com](https://fastercapital.com/es/contenido/Tasas-de-retencion-de-cursos--Tasas-de-retencion-de-cursos--una-metrica-clave-para-el-exito-del-marketing.html)
+
+[^3]: FUENTE:[OBS Business School - Tendencias y Percepciones sobre la Educación en Línea y la Adopción de Tecnologías Educativas](https://www.obsbusiness.school/sites/obsbusiness.school/files/media_files/Informe%20OBS%20E-Learning%202023.pdf)
+
+
+
+\newpage
 
 ## 3. Entrevista Problema
 
-### 3.1. Entrevista
+### 3.1 Preguntas
 
-#### 3.1.1. Preguntas
+- ¿Cuál es tu edad?
 
-#### 3.1.2. Resultados
+- ¿Estás actualmente estudiando?
+
+- ¿Cuál es tu nivel educativo actual?
+
+- ¿Qué dificultades has enfrentado con los métodos de enseñanza que frecuentas?
+
+- ¿Consideras que tus necesidades individuales de aprendizaje están siendo satisfechas?
+
+- ¿Has utilizado plataformas de educación en línea?
+
+- ¿Cuánto estarías dispuesto/a a pagar mensualmente en tu educación en línea?
+
+- ¿Recomendarías nuestra plataforma de cursos en línea personalizados?
+
+
+### 3.2 Resultados
+
+
+\newpage
+
 
 ## 4. Mapa de Empatia
 
@@ -97,6 +125,8 @@ Necesita una educación que se adapte a su estilo de aprendizaje y ritmo, obtene
 
 La motivación para obtener un título universitario y tener éxito profesional, aprender nuevas habilidades y superar los desafíos académicos.
 
+\newpage
+
 ## 5. Lienzo de Propuesta de Valor
 
 ### 5.1. Tareas del cliente
@@ -122,6 +152,10 @@ Nuestro equipo se esfuerza por crear una experiencia educativa positiva y enriqu
 ### 5.6. Quitapenas
 
 Nos esforzamos por abordar las preocupaciones y dificultades que pueden surgir al utilizar nuestra plataforma. Esto incluye mejorar la interfaz y la experiencia del usuario para hacerla más intuitiva y fácil de usar, así como garantizar la transparencia en los costos y ofrecer un soporte ampliado. Además, valoramos el feedback de nuestros usuarios y nos comprometemos a realizar mejoras continuas para satisfacer sus necesidades y expectativas en términos de calidad y relevancia educativa.
+
+
+\newpage
+
 
 ## 6. Modelo de Negocio
 
@@ -194,41 +228,48 @@ A medida que aumenta el volumen de usuarios y cursos, es posible lograr economí
 
 Nuestras principales fuentes de ingresos son las suscripciones de los clientes para acceder a la plataforma y al contenido educativo, la venta de cursos individuales, los ingresos por publicidad.
 
+
+
+\newpage
+
 ## 7. Organización, RRHH (detallar organigrama) y equipo promotor (nombres, experiencia, formación, funciones asignadas en la empresa, y su participación en el capital).
 
 ### 7.1. Organigrama
 
 - CEO: Responsable de la dirección general de la empresa, toma de decisiones estratégicas y representación de la empresa ante terceros.
 
-- Departamento de Tecnologia: Responsable de la dirección técnica de la empresa, supervisión del desarrollo de la plataforma y la infraestructura tecnológica. 
+- CTO (Chief Tecnology Officer): Responsable de la dirección técnica de la empresa, supervisión del desarrollo de la plataforma y la infraestructura tecnológica. 
 
     - Desarrollador Web: Responsable de la creación y mantenimiento de la plataforma web.
     - Especialista en IA: Responsable de la implementación de inteligencia artificial para personalización del aprendizaje.
     - Soporte Técnico: Responsable de la asistencia técnica a los usuarios.
 
-- Departamento de Marketing: Responsable de la dirección de marketing de la empresa, planificación y ejecución de estrategias de marketing y promoción.
+- CMO (Chief Marketing Officer): Responsable de la dirección de marketing de la empresa, planificación y ejecución de estrategias de marketing y promoción.
 
     - Especialista en Marketing Digital: Responsable de la promoción en redes sociales, eventos y conferencias online.
     - Diseñador Gráfico: Responsable de la creación de material gráfico para campañas de marketing.
     - Analista de Datos: Responsable del análisis de datos para evaluar el rendimiento de las estrategias de marketing.
 
-- Departamento de Contenido: Responsable de la dirección de contenido de la empresa, supervisión de la creación y actualización de contenido educativo.
+- CCO (Chief Content Officer): Responsable de la dirección de contenido de la empresa, supervisión de la creación y actualización de contenido educativo.
     
     - Creador de Contenido: Responsable de la creación de material didáctico para los cursos.
     - Editor de Contenido: Responsable de la revisión y edición del material educativo.
 
-- Departamento financiero: Responsable de la dirección financiera de la empresa, supervisión de la gestión financiera y la planificación presupuestaria.
+- CFO (Chief Finantial Officer): Responsable de la dirección financiera de la empresa, supervisión de la gestión financiera y la planificación presupuestaria.
 
     - Contador: Responsable de la contabilidad y la gestión financiera de la empresa.
     - Analista Financiero: Responsable del análisis financiero y la planificación presupuestaria.
 
-- Departamento de Recursos Humanos: Responsable de la dirección de recursos humanos de la empresa, supervisión de la gestión de personal y la planificación de recursos humanos.
+- HR (Human Resources): Responsable de la dirección de recursos humanos de la empresa, supervisión de la gestión de personal y la planificación de recursos humanos.
 
     - Gerente de Recursos Humanos: Responsable de la gestión de personal y la planificación de recursos humanos.
     - Especialista en Selección de Personal: Responsable de la selección y contratación de personal.
     - Especialista en Formación: Responsable de la formación y desarrollo del personal.
     
 ### 7.2. Equipo Promotor
+
+\newpage
+
 
 ## 8. Analisis entorno competitivo
 
@@ -257,12 +298,12 @@ por dolares EEUU
 
 | Empresa   | Precio mensual |
 |-----------|----------------|
-| Coursera  | $ 60           |
-| Udemy     | $ 20           |      
-| Duolingo  | $ 8/15         |
+| Coursera  | $ 54           |
+| Udemy     | $ 15           |      
+| Duolingo  | $ 7.33         |
 
 
-#### 8.2.2 Ingresos y beneficios[^1].    
+#### 8.2.2 Ingresos y beneficios.    
 
 
 ##### Ingresos Operativos (facturación): por mil dolares EEUU
@@ -286,7 +327,7 @@ por dolares EEUU
 | 2019 | -46,001    | -69,703   | -13,554   |
 
 
-#### 8.2.3 Número de empleados[^1].
+#### 8.2.3 Número de empleados.
 
 | Year   | Cousera   | Udemy     | Duolingo  |
 |--------|-----------|-----------|-----------|
@@ -297,8 +338,7 @@ por dolares EEUU
 | 2019   | n.a.      | n.a       | n.a       |
 
 
-[^1]: Del ultimo año disponible y de 5 años hacia atras.
-
+\newpage
 
 ### 9. Definición del mercado 
 
@@ -312,24 +352,26 @@ la eliminación de barreras geográficas. Además, la educación en línea atrae
 aquellos que buscan aprender de manera autodidacta y aprovechar la difusión masiva 
 del conocimiento a través de plataformas digitales.
 
-#### Métricas [^3]
-[^3]: Como mínimo la de referencia.
+#### Métricas
 
 ##### Referencia
+
 
 ##### Recurrencia
 Número de acciones valiosas (ej: compras) por usuario/cliente en su relación con la empresa. 
 
-#### Estudio de mercado [^4]
-[^4]: Debe permitir justificar y apoyar todo aquello para lo cual no exista otro tipo de base o justificación; por ejemplo, el precio.
+#### Estudio de mercado: Debe permitir justificar y apoyar todo aquello para lo cual no exista otro tipo de base o justificación; por ejemplo, el precio.
 
 
-#### TAM
+#### TAM (Mercado Total)
 
-#### SAM
+#### SAM (Mercado Objetivo)
 
-#### SOM
+#### SOM (Mercado Obtenible)
 
+
+
+\newpage
 
 ### 10. Marketing
 
@@ -391,6 +433,9 @@ como el Planificador de palabras clave de Google para estimar el costo de su cam
 en función de las palabras clave y opciones de orientación específicas que elija.
 
 #### 10.3. Estimacion de personas atraidas por la promocion
+
+
+\newpage
 
 
 ### 11. Produccion y operaciones
@@ -474,11 +519,7 @@ El punto de equilibrio se alcanza cuando el número de suscripciones de estudian
 
 
 
-
-
-
-
-
+\newpage
 
 
 
