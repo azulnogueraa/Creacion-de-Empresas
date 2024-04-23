@@ -471,7 +471,48 @@ en función de las palabras clave y opciones de orientación específicas que el
 
 #### 10.3. Estimacion de personas atraidas por la promocion
 
+En el ámbito de la educación, los conversion rates en las plataformas 
+publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar 
+significativamente. Para la industria educativa, se observa que:
 
+##### Facebook Ads
+Según datos recientes, la tasa de conversión promedio en Facebook Ads para el 
+sector educativo se sitúa en torno al 13.58% [^1]. Esta cifra refleja la efectividad 
+de las campañas publicitarias dirigidas a audiencias educativas en esta plataforma.
+
+![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook-ads-average-conversion-rate-3.jpg){ width=70% }
+
+##### Google Ads
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo 
+se encuentra alrededor del 3.39% para la Search y 0.50% para la Display [^2]. Esta 
+plataforma también muestra un rendimiento sólido en términos de conversion rates 
+para las instituciones educativas que utilizan sus servicios publicitarios.
+
+##### Instagram Ads
+Para Instagram Ads, la tasa de conversión promedio en el sector educativo se sitúa 
+en aproximadamente el 1.08% [^3]. Aunque más baja que en otras plataformas, 
+Instagram sigue siendo un canal relevante para la promoción de servicios educativos.
+
+##### Estimación de Conversion Rate Final
+
+Al promediar los conversion rates de Facebook Ads (13.58%), Google Ads (3.89%) e 
+Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de 
+conversion rate final de aproximadamente 6.18%. Esta cifra combinada refleja 
+la posible tasa de conversión que las instituciones educativas podrían esperar 
+al utilizar estas plataformas publicitarias para promocionar sus servicios.
+
+Al considerar estos datos, es importante recordar que los conversion rates pueden 
+variar según la estrategia de marketing, la calidad del contenido y la relevancia 
+de las campañas publicitarias en cada plataforma. Es fundamental realizar un 
+seguimiento continuo y ajustar las estrategias según los resultados obtenidos 
+para maximizar el rendimiento de las inversiones en publicidad digital en el 
+sector educativo.
+
+[^1]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
+
+[^2]: FUENTE: [Benchmarks de Google Ads para tu industria.](https://www.linkedin.com/pulse/benchmarks-de-google-ads-para-tu-industria-pedro-cerrilla/)
+
+[^3]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
 \newpage
 
 
