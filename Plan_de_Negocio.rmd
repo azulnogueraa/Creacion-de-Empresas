@@ -294,7 +294,7 @@ Nuestras principales fuentes de ingresos son las suscripciones de los clientes p
 - Habilidades Clave: Marketing digital, gestión de campañas publicitarias, análisis de mercado, desarrollo de marca.
 - Funciones Asignadas: Planificación y ejecución de estrategias de marketing, captación de usuarios, análisis de datos y rendimiento.
 
-**Santiago Mendoza** *Director Financiero (CFO)*
+**Ian Costantini** *Director Financiero (CFO)*
 
 - Experiencia: Contador público con más de 15 años de experiencia en finanzas corporativas y gestión financiera.
 - Habilidades Clave: Análisis financiero, planificación presupuestaria, gestión de inversiones, obtención de financiamiento.
@@ -314,11 +314,15 @@ Nuestras principales fuentes de ingresos son las suscripciones de los clientes p
 
 ### 8.1. Empresas las cuales se dediquen a la misma actividad o parecida a la nuestra
 
-a.  [Coursera](https://www.coursera.org/)
+a. Coursera
 
-b. [Udemy](https://www.udemy.com/)
+b. Udemy
 
-c. [Duolingo](https://es.duolingo.com/)
+c. Duolingo
+
+[^4]:[coursera.org](https://www.coursera.org/)
+[^5]:[udemy.com](https://www.udemy.com/)
+[^6]:[es.duolingo.com](https://es.duolingo.com/)
 
 ### 8.2. Descripcion de la competencia y producto
 
