@@ -385,29 +385,73 @@ por dolares EEUU
 
 ## 9. Definición del mercado 
 
-### Cliente objetivo
+### 9.1. Cliente objetivo
 
-El cliente objetivo de una empresa que proporciona cursos de educación en línea son principalmente alumnos y personas interesadas en adquirir conocimientos de forma flexible y personalizada. Estos clientes buscan la conveniencia de acceder a la educación desde cualquier lugar, la posibilidad de aprender a su propio ritmo y la eliminación de barreras geográficas. Además, la educación en línea atrae a 
-aquellos que buscan aprender de manera autodidacta y aprovechar la difusión masiva del conocimiento a través de plataformas digitales.
+Nuestro servicio está diseñado para ofrecer formación complementaria a estudiantes universitarios y profesionales que buscan especializarse en el área tecnológica. Para definir con mayor precisión nuestro mercado objetivo, nos centraremos en estudiantes universitarios de España que estén interesados en cursos personalizados y adaptados a sus necesidades de aprendizaje. Esta estrategia nos permitirá identificar y cuantificar de manera efectiva a nuestro público objetivo, asegurando que nuestros cursos respondan específicamente a las demandas y expectativas de este segmento de mercado. Además, estaremos posicionados para satisfacer las necesidades educativas actuales y futuras de los estudiantes universitarios, ayudándoles a complementar sus estudios con habilidades técnicas relevantes y actualizadas.
 
-### Métricas
+### 9.2. Métricas
 
-### Referencia
+En base al estudio de mercado realizado con la encuesta definida anteriormente, pudimos extraer varios resultados que nos ayudan a definir diferentes cuestiones. 
+
+**Métrica de Referencia**
+
+Para obtener esta métrica, utilizamos los resultados de nuestra encuesta donde preguntamos a los usuarios si estarían dispuestas a recomendar nuestro producto. Según nuestros hallazgos, el 20% de los encuestados estarían dispuestos a recomendar un servicio similar al nuestro.
+
+###AGREGAR GRAFICO###
+
+**Métrica de Recurrencia**
+
+La métrica de recurrencia es una medida clave que utilizamos para evaluar la fidelidad y la retención de nuestros clientes en un modelo de suscripción mensual. Esta métrica se calcula considerando que cada cliente que adquiere nuestra suscripción mensual la renueva durante un periodo mínimo de un año. Por lo tanto, asumimos que cada cliente renovará su suscripción un total de 12 veces en ese periodo.
+
+La tasa de recurrencia de 12 por usuario sugiere que cada cliente individual, en promedio, generará ingresos equivalentes a 12 meses de suscripción durante el primer año de su relación con nuestro servicio. Esta métrica es fundamental para la planificación financiera y para comprender el valor del ciclo de vida del cliente en nuestro modelo de negocio de suscripción mensual.
+
+### 9.3. Estudio de mercado
+
+**Precio**
+
+Nuestro análisis exhaustivo del mercado ha revelado que nuestro servicio se distingue de la competencia por ofrecer una combinación única de cursos personalizados y un sólido soporte que incluye una retroalimentación constante.
+
+Lo que nos diferencia significativamente de plataformas como Coursera, Udemy y Duolingo es la atención personalizada que brindamos a nuestros usuarios. Nuestros cursos están diseñados para complementar los estudios universitarios, adaptándose a las necesidades específicas de cada estudiante. Esto se traduce en un mayor valor percibido por parte de nuestros clientes, quienes valoran la relevancia y utilidad de nuestros contenidos en su trayectoria académica.
+
+Además, nuestro servicio ofrece un sólido respaldo a través de una interacción constante. Proporcionamos ayuda y feedback continuo a nuestros usuarios, asegurando que puedan maximizar su experiencia de aprendizaje y obtener resultados concretos en su formación.
+
+Por esta razón, hemos decidido estipular un precio de $60 dólares estadounidenses mensuales para la suscripción a nuestro servicio. Esta tarifa refleja el valor agregado que ofrecemos y está respaldada por la alta disposición a pagar demostrada por un 80% de los encuestados en nuestro estudio de mercado.
 
 
-### Recurrencia
-Número de acciones valiosas (ej: compras) por usuario/cliente en su relación con la empresa. 
+**TAM (Mercado Total)**
 
-### Estudio de mercado: Debe permitir justificar y apoyar todo aquello para lo cual no exista otro tipo de base o justificación; por ejemplo, el precio.
+Nuestro mercado total (TAM) se define por la cantidad de estudiantes universitarios en España que podrían beneficiarse de nuestra oferta de formación complementaria y especializaciones.
 
-
-### TAM (Mercado Total)
-
-### SAM (Mercado Objetivo)
-
-### SOM (Mercado Obtenible)
+Según datos del Ministerio de Universidades de España para el curso académico 2022-2023, podemos observar la siguiente distribución de estudiantes: [^4]
 
 
+| Nivel de estudio        | Cantidad de estudiantes |
+|-------------------------|-------------------------|
+| Grado y ciclo           |               1.353.347 |
+| Master                  |                 276.518 |
+| Doctorado               |                  92.382 |
+| Total                   |           **1.722.247** |
+
+
+[^4]: FUENTE: [Ministerio de Universidades de España](https://www.universidades.gob.es/wp-content/uploads/2023/06/Principales-resultados_EEU_2022-23.pdf)
+
+Estos números representan la base potencial de clientes a los que podemos dirigirnos con nuestro servicio educativo. Esta información respalda nuestra estrategia de mercado y nos proporciona una visión clara del alcance y la oportunidad dentro del sector universitario español.
+
+**SAM (Mercado Objetivo)**
+
+Para determinar nuestro SAM (Servicio Total Disponible), utilizamos los resultados de encuestas exhaustivas que nos proporcionaron una estimación realista del porcentaje de alumnos universitarios dispuestos a consumir nuestro servicio. A partir de estos datos, identificamos que aproximadamente el 80% de los encuestados mostraron disposición a pagar el precio que hemos establecido.
+
+Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1.722.247, y aplicando el porcentaje de disposición a pagar (80%). Por lo tanto, nuestro SAM se estima en 1.722.247 x 80% = 1.377.797 potenciales usuarios.
+Este cálculo nos proporciona una base sólida para comprender la demanda inicial de nuestro servicio entre los estudiantes universitarios en España que valoran la formación complementaria y especializada que ofrecemos. Estamos enfocados en capturar una parte significativa de este mercado objetivo inicial, aprovechando la disposición de la mayoría de los estudiantes encuestados a invertir en nuestra propuesta de valor.
+
+###AGREGAR GRAFICO###
+
+
+**SOM (Mercado Obtenible)**
+
+##########################################**FALTA**##########################################
+
+La capacidad de tus servidores y el ancho de banda disponible para determinar cuántos estudiantes simultáneos puedes atender de manera efectiva.
 
 \newpage
 
@@ -437,11 +481,11 @@ En nuestro análisis de costos, emplearemos el modelo del Costo por Mil Impresio
 
 **Facebook Ads**
 
-Según los datos proporcionados por Neo Attack [^4], el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. 
+Según los datos proporcionados por Neo Attack [^5], el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. 
 
 **Instagram Ads**
 
-De acuerdo con la información de Dinamiza Digital [^5], el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€.
+De acuerdo con la información de Dinamiza Digital [^6], el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€.
 
 **Google Ads**
 
@@ -449,9 +493,9 @@ Aunque no se proporciona un dato específico para el CPM de Google Ads en Españ
 
 Es importante tener en cuenta que estas cifras son estimaciones aproximadas y que el costo real puede variar según diversos factores, como la audiencia objetivo, el formato del anuncio y la competencia en el mercado. Para obtener una estimación más precisa, es recomendable considerar la colaboración con una agencia de marketing digital o el uso de herramientas especializadas.
 
-[^4]: FUENTE: [¿Cuánto cuesta Facebook Ads?](https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.)
+[^5]: FUENTE: [¿Cuánto cuesta Facebook Ads?](https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.)
 
-[^5]: FUENTE: [Cuánto cuesta la publicidad en Instagram en España?](https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/)
+[^6]: FUENTE: [Cuánto cuesta la publicidad en Instagram en España?](https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/)
 
 ### 10.3. Estimacion de personas atraidas por la promocion
 
@@ -459,17 +503,17 @@ En el sector educativo, las tasas de conversión en plataformas publicitarias cl
 
 **Facebook Ads**
 
-Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^6]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas.
+Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^7]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas.
 
 ![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=80% }
 
 **Google Ads**
 
-En el caso de Google Ads, las tasas de conversión promedio para el sector educativo se sitúan alrededor del 3.39% para la búsqueda (Search) y 0.50% para la red de display (Display) [^7]. Estos números demuestran el sólido desempeño de Google Ads en términos de tasas de conversión para las instituciones educativas, tanto en la red de búsqueda como en la de display.
+En el caso de Google Ads, las tasas de conversión promedio para el sector educativo se sitúan alrededor del 3.39% para la búsqueda (Search) y 0.50% para la red de display (Display) [^8]. Estos números demuestran el sólido desempeño de Google Ads en términos de tasas de conversión para las instituciones educativas, tanto en la red de búsqueda como en la de display.
 
 **Instagram Ads**
 
-Para Instagram Ads, la tasa de conversión promedio en el sector educativo se estima en aproximadamente el 1.08% [^8]. Aunque esta tasa es más baja en comparación con otras plataformas, Instagram sigue siendo un canal relevante para la promoción de servicios educativos, especialmente entre audiencias más jóvenes.
+Para Instagram Ads, la tasa de conversión promedio en el sector educativo se estima en aproximadamente el 1.08% [^9]. Aunque esta tasa es más baja en comparación con otras plataformas, Instagram sigue siendo un canal relevante para la promoción de servicios educativos, especialmente entre audiencias más jóvenes.
 
 **Estimación de Conversion Rate Final**
 
@@ -477,11 +521,11 @@ Al promediar las tasas de conversión de Facebook Ads (13.58%), Google Ads (3.89
 
 Es crucial tener en cuenta que las tasas de conversión pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
 
-[^6]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
+[^7]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^7]: FUENTE: [Benchmarks de Google Ads para tu industria.](https://www.linkedin.com/pulse/benchmarks-de-google-ads-para-tu-industria-pedro-cerrilla/)
+[^8]: FUENTE: [Benchmarks de Google Ads para tu industria.](https://www.linkedin.com/pulse/benchmarks-de-google-ads-para-tu-industria-pedro-cerrilla/)
 
-[^8]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+[^9]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
 \newpage
 
 
