@@ -5,7 +5,7 @@ author:
 - Patricio Guledjian
 - Rocio Gonzalez Cingolani
 - Rafael Cabre
-date: "`r Sys.Date()`"
+date: "2024-04-24"
 output:
   pdf_document: default
   html_document:
