@@ -499,33 +499,36 @@ Es importante tener en cuenta que estas cifras son estimaciones aproximadas y qu
 
 ### 10.3. Estimacion de personas atraidas por la promocion
 
-En el sector educativo, las tasas de conversión en plataformas publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden ofrecer una visión valiosa sobre la efectividad de nuestras campañas.
+Los conversion rates y los click-through rates (CTR) en las plataformas publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar significativamente. Se observa que:
 
 **Facebook Ads**
 
-Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^7]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas.
+Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^7]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas. Además, el CTR para Facebook Ads es del 0.73% [^7], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo. 
 
 ![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=80% }
 
 **Google Ads**
 
-En el caso de Google Ads, las tasas de conversión promedio para el sector educativo se sitúan alrededor del 3.39% para la búsqueda (Search) y 0.50% para la red de display (Display) [^8]. Estos números demuestran el sólido desempeño de Google Ads en términos de tasas de conversión para las instituciones educativas, tanto en la red de búsqueda como en la de display.
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^8]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^8], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
 
 **Instagram Ads**
 
-Para Instagram Ads, la tasa de conversión promedio en el sector educativo se estima en aproximadamente el 1.08% [^9]. Aunque esta tasa es más baja en comparación con otras plataformas, Instagram sigue siendo un canal relevante para la promoción de servicios educativos, especialmente entre audiencias más jóvenes.
+Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^9]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^10].
 
 **Estimación de Conversion Rate Final**
 
-Al promediar las tasas de conversión de Facebook Ads (13.58%), Google Ads (3.89%) e Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de la tasa de conversión final de aproximadamente el 6.18%. Esta cifra combinada ofrece una visión general de la posible efectividad de nuestras campañas publicitarias en estas plataformas para promocionar servicios educativos.
+Al promediar las tasas de conversión de Facebook Ads (13.58%), Google Ads (5.93%) e Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de la tasa de conversión final de aproximadamente el 6.86%. Esta cifra combinada ofrece una visión general de la posible efectividad de nuestras campañas publicitarias en estas plataformas para promocionar servicios educativos.
 
-Es crucial tener en cuenta que las tasas de conversión pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
+Es crucial tener en cuenta que las tasas de conversión y los CTR pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
 
 [^7]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^8]: FUENTE: [Benchmarks de Google Ads para tu industria.](https://www.linkedin.com/pulse/benchmarks-de-google-ads-para-tu-industria-pedro-cerrilla/)
+[^8]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
 
 [^9]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+
+[^10]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
+
 \newpage
 
 
