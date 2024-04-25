@@ -267,28 +267,28 @@ En específico, estudiante, profesionales en busca de capacitación y personas i
 
 ### 6.6. Estructura de costos
 
-#### 6.6.1. Costos por Recurso y Actividad
+#### 6.6.1. Costos Fijos
 
-- Costos de desarrollo de la plataforma web.
-- Costos de contenido educativo, como el pago a instructores, material de curso, derechos de autor y licencias de software.
+**Costos de Instalaciones, Medios y Equipos**
 
-#### 6.6.2. Costos Fijos
+- Servidores de Alta Capacidad
+- Red de Internet de Alta Velocidad
 
-- Los salarios del personal. 
+#### 6.6.2. Costos Variables
 
-#### 6.6.3. Costos Variables
+**Gastos de Marketing y Publicidad**
 
-- Los costos de adquisición de contenido educativo, gastos de marketing y publicidad, y comisiones de transacción.
+- Facebook Ads
+- Instagram Ads
+- Google Ads
 
-#### 6.6.4. Economías de escala
+#### 6.6.3. Economías de escala
 
 A medida que aumenta el volumen de usuarios y cursos, es posible lograr economías de escala en áreas como desarrollo de plataforma, adquisición de contenido y marketing, lo que reduce los costos unitarios.
 
 ### 6.7. Fuentes de ingreso
 
-Nuestras principales fuentes de ingresos son las suscripciones de los clientes para acceder a la plataforma y al contenido educativo, la venta de cursos individuales, los ingresos por publicidad.
-
-
+Nuestro principal flujo de ingresos proviene de las suscripciones de los clientes, quienes acceden a nuestra plataforma para beneficiarse de nuestros cursos en línea.
 
 \newpage
 
