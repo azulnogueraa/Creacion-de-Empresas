@@ -668,25 +668,30 @@ Esta planificación estratégica de la inversión en infraestructura tecnológic
 ### 11.3. Sistema de operaciones
 
 **Planificación Estratégica**
+
 - Definir objetivos claros para el MVP, incluyendo las funcionalidades esenciales que se deben implementar.
 - Establecer un cronograma detallado con hitos específicos para el desarrollo y lanzamiento.
 - Desarrollo e Implementación de la Plataforma Web
 
 **Desarrollo de Contenido de Cursos**
+
 - Diseño y desarrollo de módulos educativos interactivos por parte de nuestros expertos en creación de contenido.
 - Integración de multimedia y recursos interactivos para mejorar la experiencia de aprendizaje.
 - Revisión y validación del contenido por expertos en la materia para garantizar su calidad y relevancia.
 
 **Aprobación y Publicación**
+
 - Realizar pruebas exhaustivas de la plataforma y los contenidos para asegurar su funcionalidad y precisión.
 - Obtener las aprobaciones necesarias de las partes interesadas para asegurar que el producto cumple con las expectativas y requisitos reglamentarios.
 - Publicar el contenido en la plataforma, asegurando que esté accesible y optimizado para diferentes dispositivos.
 
 **Lanzamiento de los Cursos**
+
 - Planificar una estrategia de lanzamiento que incluya eventos promocionales y colaboraciones con influencers o expertos del sector.
 - Monitorear la respuesta de los usuarios y ajustar rápidamente cualquier aspecto del servicio según sea necesario.
 
 **Marketing y Publicidad**
+
 - Desarrollar y ejecutar una campaña de marketing digital para crear conciencia y atraer a los usuarios objetivo.
 - Utilizar estrategias de marketing de contenidos, publicidad pagada y redes sociales para maximizar el alcance y la captación.
 - Establecer métricas de seguimiento para evaluar el impacto de las actividades de marketing y ajustar las tácticas en función de los resultados obtenidos.
