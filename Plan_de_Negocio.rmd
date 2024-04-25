@@ -7,9 +7,9 @@ author:
 - Rafael Cabre
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 lang: "es-ES"
 subtitle: "Link al repositorio: [https://github.com/azulnogueraa/Creacion-de-Empresas](https://github.com/azulnogueraa/Creacion-de-Empresas)"
 toc: yes
@@ -347,15 +347,15 @@ Nuestras principales fuentes de ingresos son las suscripciones de los clientes p
 
 ### 8.1. Empresas las cuales se dediquen a la misma actividad o parecida a la nuestra
 
-a. Coursera
+a. Coursera[^4]
 
-b. Udemy
+b. Udemy[^5]
 
-c. Duolingo
+c. Duolingo[^6]
 
-[^4]:[coursera.org](https://www.coursera.org/)
-[^5]:[udemy.com](https://www.udemy.com/)
-[^6]:[es.duolingo.com](https://es.duolingo.com/)
+[^4]: FUENTE: [coursera.org](https://www.coursera.org/)
+[^5]: FUENTE: [udemy.com](https://www.udemy.com/)
+[^6]: FUENTE: [es.duolingo.com](https://es.duolingo.com/)
 
 ### 8.2. Descripcion de la competencia y producto
 
@@ -435,19 +435,21 @@ Nuestro servicio está diseñado para ofrecer formación complementaria a estudi
 
 ### 9.2. Métricas
 
-En base al estudio de mercado realizado con la encuesta definida anteriormente, pudimos extraer varios resultados que nos ayudan a definir diferentes cuestiones. 
+Basándonos en el estudio de mercado realizado con la encuesta mencionada anteriormente, hemos obtenido una serie de resultados que proporcionan información clave para abordar diferentes aspectos del negocio.
 
 **Métrica de Referencia**
 
-Para obtener esta métrica, utilizamos los resultados de nuestra encuesta donde preguntamos a los usuarios si estarían dispuestas a recomendar nuestro producto. Según nuestros hallazgos, el 20% de los encuestados estarían dispuestos a recomendar un servicio similar al nuestro.
+Para obtener esta métrica, evaluamos las respuestas de los usuarios en nuestra encuesta, donde les preguntamos si recomendarían nuestro producto. Los resultados mostraron que el 30% de los encuestados expresaron una disposición a recomendar un servicio similar al nuestro.
 
-###AGREGAR GRAFICO###
+Además, es relevante destacar que el 63.3% de los encuestados indicaron que podrían recomendar el servicio ("Tal vez"), mientras que el 6.7% indicó que no estaría dispuesto a recomendarlo. Estos datos nos brindan una visión integral de la percepción de los usuarios hacia nuestro servicio y nos ayudan a entender las áreas donde podemos mejorar para aumentar la tasa de recomendación.
+
+![Métrica de Referencia](img/referencia.png){ width=100% }
 
 **Métrica de Recurrencia**
 
-La métrica de recurrencia es una medida clave que utilizamos para evaluar la fidelidad y la retención de nuestros clientes en un modelo de suscripción mensual. Esta métrica se calcula considerando que cada cliente que adquiere nuestra suscripción mensual la renueva durante un periodo mínimo de un año. Por lo tanto, asumimos que cada cliente renovará su suscripción un total de 12 veces en ese periodo.
+La métrica de recurrencia es esencial para evaluar la fidelidad y retención de nuestros clientes en un modelo de suscripción mensual. Calculamos esta métrica considerando que cada cliente que adquiere nuestra suscripción mensual la renueva durante un mínimo de un año, lo que equivale a un total de 12 renovaciones en ese periodo.
 
-La tasa de recurrencia de 12 por usuario sugiere que cada cliente individual, en promedio, generará ingresos equivalentes a 12 meses de suscripción durante el primer año de su relación con nuestro servicio. Esta métrica es fundamental para la planificación financiera y para comprender el valor del ciclo de vida del cliente en nuestro modelo de negocio de suscripción mensual.
+Esta tasa de recurrencia de 12 por usuario indica que, en promedio, cada cliente generará ingresos equivalentes a 12 meses de suscripción durante el primer año de su relación con nuestro servicio. Este indicador es crucial para la planificación financiera y para comprender el valor del ciclo de vida del cliente en nuestro modelo de negocio basado en suscripciones mensuales. Esta métrica nos permite estimar la estabilidad y el potencial de ingresos a largo plazo derivados de nuestros clientes recurrentes.
 
 ### 9.3. Estudio de mercado
 
@@ -459,14 +461,13 @@ Lo que nos diferencia significativamente de plataformas como Coursera, Udemy y D
 
 Además, nuestro servicio ofrece un sólido respaldo a través de una interacción constante. Proporcionamos ayuda y feedback continuo a nuestros usuarios, asegurando que puedan maximizar su experiencia de aprendizaje y obtener resultados concretos en su formación.
 
-Por esta razón, hemos decidido estipular un precio de $60 dólares estadounidenses mensuales para la suscripción a nuestro servicio. Esta tarifa refleja el valor agregado que ofrecemos y está respaldada por la alta disposición a pagar demostrada por un 80% de los encuestados en nuestro estudio de mercado.
+Por esta razón, hemos decidido estipular un precio de $60 dólares estadounidenses mensuales para la suscripción a nuestro servicio. 
 
-
-**TAM (Mercado Total)**
+### 9.4. TAM (Mercado Total)
 
 Nuestro mercado total (TAM) se define por la cantidad de estudiantes universitarios en España que podrían beneficiarse de nuestra oferta de formación complementaria y especializaciones.
 
-Según datos del Ministerio de Universidades de España para el curso académico 2022-2023, podemos observar la siguiente distribución de estudiantes: [^4]
+Según datos del Ministerio de Universidades de España para el curso académico 2022-2023, podemos observar la siguiente distribución de estudiantes: [^7]
 
 
 | Nivel de estudio        | Cantidad de estudiantes |
@@ -477,25 +478,57 @@ Según datos del Ministerio de Universidades de España para el curso académico
 | Total                   |           **1.722.247** |
 
 
-[^4]: FUENTE: [Ministerio de Universidades de España](https://www.universidades.gob.es/wp-content/uploads/2023/06/Principales-resultados_EEU_2022-23.pdf)
+[^7]: FUENTE: [Ministerio de Universidades de España](https://www.universidades.gob.es/wp-content/uploads/2023/06/Principales-resultados_EEU_2022-23.pdf)
 
 Estos números representan la base potencial de clientes a los que podemos dirigirnos con nuestro servicio educativo. Esta información respalda nuestra estrategia de mercado y nos proporciona una visión clara del alcance y la oportunidad dentro del sector universitario español.
 
-**SAM (Mercado Objetivo)**
+### 9.5. SAM (Mercado Objetivo)
 
 Para determinar nuestro SAM (Servicio Total Disponible), utilizamos los resultados de encuestas exhaustivas que nos proporcionaron una estimación realista del porcentaje de alumnos universitarios dispuestos a consumir nuestro servicio. A partir de estos datos, identificamos que aproximadamente el 80% de los encuestados mostraron disposición a pagar el precio que hemos establecido.
 
-Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1.722.247, y aplicando el porcentaje de disposición a pagar (80%). Por lo tanto, nuestro SAM se estima en 1.722.247 x 80% = 1.377.797 potenciales usuarios.
+Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1.722.247, y aplicando el porcentaje de disposición a pagar (42.1%). Por lo tanto, nuestro SAM se estima en 1.722.247 x 42.1% = 725.065 potenciales usuarios.
 Este cálculo nos proporciona una base sólida para comprender la demanda inicial de nuestro servicio entre los estudiantes universitarios en España que valoran la formación complementaria y especializada que ofrecemos. Estamos enfocados en capturar una parte significativa de este mercado objetivo inicial, aprovechando la disposición de la mayoría de los estudiantes encuestados a invertir en nuestra propuesta de valor.
 
-###AGREGAR GRAFICO###
+![Disposición a pagar](img/precio.png){ width=100% }
 
 
-**SOM (Mercado Obtenible)**
+### 9.6. SOM (Mercado Obtenible)
 
-##########################################**FALTA**##########################################
+El mercado obtenible de nuestra startup se define por la capacidad técnica de nuestra infraestructura para atender de manera efectiva a estudiantes universitarios interesados en nuestros servicios de formación complementaria. Esta métrica se basa en la capacidad de nuestros servidores y el ancho de banda disponible.
 
-La capacidad de tus servidores y el ancho de banda disponible para determinar cuántos estudiantes simultáneos puedes atender de manera efectiva.
+**Capacidad de Servidores**
+
+Para determinar nuestro mercado obtenible, evaluamos la capacidad de nuestros servidores para manejar el tráfico y la carga de trabajo asociada con la entrega de nuestros cursos en línea. Actualmente, utilizamos tres servidores HP ProLiant ML350 Gen10 con procesadores Intel Xeon Gold 5218R y 32GB de RAM para alojar nuestra plataforma educativa.
+
+- Capacidad de Red: Nuestros servidores están equipados con tarjetas de red Gigabit Ethernet integradas que admiten velocidades de red estándar de 1 Gbps (Gigabit por segundo).
+
+**Ancho de Banda**
+
+El ancho de banda disponible es crucial para garantizar una experiencia de usuario fluida y sin interrupciones durante el acceso a nuestros cursos en línea. Según los requisitos estimados[^8], cada estudiante necesita aproximadamente 2,5 Mbps de ancho de banda para acceder de manera efectiva a nuestros cursos.
+
+[^8]: FUENTE: [GoTo](https://support.goto.com/es/joinme/help/what-are-the-bandwidth-requirements)
+
+**Estimación del SOM**
+
+Basándonos en las especificaciones de nuestra infraestructura técnica, podemos estimar nuestro mercado obtenible considerando el ancho de banda disponible en nuestros servidores.
+
+\[
+\text{Ancho de Banda Disponible} = 1000 \text{ Mbps}
+\]
+
+\[
+\text{Ancho de Banda Requerido por Estudiante} = 2.5 \text{ Mbps}
+\]
+
+\[
+\text{Número de Estudiantes por Servidor} = \frac{\text{Ancho de Banda Disponible}}{\text{Ancho de Banda Requerido por Estudiante}} = \frac{1000}{2.5} = 400
+\]
+
+\[
+\text{Número Total de Estudiantes (SOM)} = \text{Número de Estudiantes por Servidor} \times \text{Número de Servidores} = 400 \times 3 = 1200
+\]
+
+Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servidores (1000 Mbps cada uno), podemos atender de manera efectiva a hasta 1200 estudiantes simultáneamente, considerando el requisito de 2,5 Mbps por estudiante.
 
 \newpage
 
@@ -525,11 +558,11 @@ En nuestro análisis de costos, emplearemos el modelo del Costo por Mil Impresio
 
 **Facebook Ads**
 
-Según los datos proporcionados por Neo Attack [^5], el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. 
+Según los datos proporcionados por Neo Attack [^9], el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. 
 
 **Instagram Ads**
 
-De acuerdo con la información de Dinamiza Digital [^6], el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€.
+De acuerdo con la información de Dinamiza Digital [^10], el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€.
 
 **Google Ads**
 
@@ -537,9 +570,9 @@ Aunque no se proporciona un dato específico para el CPM de Google Ads en Españ
 
 Es importante tener en cuenta que estas cifras son estimaciones aproximadas y que el costo real puede variar según diversos factores, como la audiencia objetivo, el formato del anuncio y la competencia en el mercado. Para obtener una estimación más precisa, es recomendable considerar la colaboración con una agencia de marketing digital o el uso de herramientas especializadas.
 
-[^5]: FUENTE: [¿Cuánto cuesta Facebook Ads?](https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.)
+[^9]: FUENTE: [¿Cuánto cuesta Facebook Ads?](https://neoattack.com/blog/cuanto-cuesta-facebook-ads/#:~:text=tipo%20de%20empresas.-,Cu%C3%A1nto%20cuesta%20Facebook%20Ads%20en%20Espa%C3%B1a,entre%200.5%20y%203%E2%82%AC.)
 
-[^6]: FUENTE: [Cuánto cuesta la publicidad en Instagram en España?](https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/)
+[^10]: FUENTE: [Cuánto cuesta la publicidad en Instagram en España?](https://dinamizadigital.com/cuanto-cuesta-la-publicidad-en-instagram/)
 
 ### 10.3. Estimacion de personas atraidas por la promocion
 
@@ -547,17 +580,17 @@ Los conversion rates y los click-through rates (CTR) en las plataformas publicit
 
 **Facebook Ads**
 
-De acuerdo con Wordstream, una autoridad reconocida en estrategias de marketing digital, la tasa de conversión media para anuncios de Facebook en el ámbito educativo alcanza un notable 13.58%[^7]. Esta cifra, ilustrada en la Figura 4, subraya la eficiencia de Facebook como plataforma para captar y comprometer al público educativo, consolidándose como un medio publicitario esencial para entidades del sector educativo. Adicionalmente, la tasa de clics (CTR) en Facebook Ads se reporta en un 0.73%[^7], reflejando la frecuencia con la que los usuarios interactúan con los anuncios visualizados.
+De acuerdo con Wordstream, una autoridad reconocida en estrategias de marketing digital, la tasa de conversión media para anuncios de Facebook en el ámbito educativo alcanza un notable 13.58%[^11]. Esta cifra, ilustrada en la Figura 4, subraya la eficiencia de Facebook como plataforma para captar y comprometer al público educativo, consolidándose como un medio publicitario esencial para entidades del sector educativo. Adicionalmente, la tasa de clics (CTR) en Facebook Ads se reporta en un 0.73%[^12], reflejando la frecuencia con la que los usuarios interactúan con los anuncios visualizados.
 
 ![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=80% }
 
 **Google Ads**
 
-En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^8]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^8], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^13]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^14], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
 
 **Instagram Ads**
 
-Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^9]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^10].
+Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^15]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^16].
 
 **Estimación de Conversion Rate Final**
 
@@ -565,13 +598,13 @@ Al promediar las tasas de conversión de Facebook Ads (13.58%), Google Ads (5.93
 
 Es crucial tener en cuenta que las tasas de conversión y los CTR pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
 
-[^7]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
+[^13]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^8]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
+[^14]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
 
-[^9]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+[^15]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
 
-[^10]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
+[^16]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
 
 \newpage
 
@@ -598,7 +631,9 @@ Con este enfoque, lanzaremos un producto inicial sólido que destaque por la cal
 
 **Medios Técnicos:**
 
-- Servidores de Alta Capacidad: Para garantizar la escalabilidad y robustez de nuestra plataforma de educación en línea, se adquirirán tres servidores HP ProLiant ML350 Gen10. Estos servidores son conocidos por su alta capacidad de procesamiento y expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. Estarán ubicados en las instalaciones de uno de nuestros socios tecnológicos, lo que minimiza la necesidad de espacio físico adicional y reduce costos operativos. El costo de cada servidor es aproximadamente de $5,000, sumando un total de $15,000 para la adquisición inicial.
+- Servidores de Alta Capacidad: Para garantizar la escalabilidad y robustez de nuestra plataforma de educación en línea, se adquirirán tres servidores HP ProLiant ML350 Gen10 [^17]. Estos servidores son conocidos por su alta capacidad de procesamiento y expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. Estarán ubicados en las instalaciones de uno de nuestros socios tecnológicos, lo que minimiza la necesidad de espacio físico adicional y reduce costos operativos. El costo de cada servidor es aproximadamente de $5,000, sumando un total de $15,000 para la adquisición inicial.
+
+[^17]: FUENTE: [PC Components](https://www.pccomponentes.com/hp-proliant-ml350-gen10-intel-xeon-gold-5218r-32gb?campaigntype=eshopping&campaignchannel=shopping&gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AsYT97wEWhP1LLdCElJMpDvCbmRdHR9LGyzccD9iJg-iinPLmFd3QaAslGEALw_wcB)
 
 - Equipos Informáticos: Utilizaremos los equipos personales de nuestro equipo técnico, que ya cuentan con las especificaciones necesarias para el desarrollo y mantenimiento de aplicaciones de alta demanda. Esta estrategia reduce la inversión inicial en hardware y permite una mayor flexibilidad operativa.
 
