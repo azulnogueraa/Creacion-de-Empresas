@@ -579,34 +579,41 @@ Los conversion rates y los click-through rates (CTR) en las plataformas publicit
 
 **Facebook Ads**
 
-De acuerdo con Wordstream, una autoridad reconocida en estrategias de marketing digital, la tasa de conversión media para anuncios de Facebook en el ámbito educativo alcanza un notable 13.58%[^11]. Esta cifra, ilustrada en la Figura 4, subraya la eficiencia de Facebook como plataforma para captar y comprometer al público educativo, consolidándose como un medio publicitario esencial para entidades del sector educativo. Adicionalmente, la tasa de clics (CTR) en Facebook Ads se reporta en un 0.73%[^12], reflejando la frecuencia con la que los usuarios interactúan con los anuncios visualizados.
+Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^11]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas. Además, el CTR para Facebook Ads es del 0.73% [^11], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo.
+
+Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Facebook Ads. Según los datos proporcionados por Neo Attack, el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. Supongamos un CPM de 3€. Con un presupuesto de 500 euros, con este CPM se pueden alcanzar aproximadamente 166,666 visualizaciones del anuncio. Si mantenemos un CTR del 0.73%, se esperaría obtener alrededor de 1,217 clics en la publicidad. Considerando la tasa de conversión promedio del 13.58%, esto podría traducirse en aproximadamente 165 nuevos clientes generados a través de la campaña.
 
 ![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=80% }
 
 **Google Ads**
 
-En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^13]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^14], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^12]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^12], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
+
+Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Google Ads. Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global, alrededor de $2.40. Con un presupuesto de 500 euros y este CPM, se pueden alcanzar aproximadamente 208,333 visualizaciones del anuncio. Si mantenemos un CTR del 6.17%, se esperaría obtener alrededor de 12,843 clics en la publicidad. Considerando la tasa de conversión promedio del 5.93%, esto podría traducirse en aproximadamente 762 nuevos clientes generados a través de la campaña.
 
 **Instagram Ads**
 
-Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^15]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^16].
+Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^13]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^14].
+
+Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Instagram Ads. De acuerdo con la información de Dinamiza Digital, el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€. Tomando un valor medio de 3,68€. Con un presupuesto de 500 euros y este CPM, se pueden alcanzar aproximadamente 135,870 visualizaciones del anuncio. Suponiendo un CTR del 0.52%, se esperaría obtener alrededor de 706 clics en la publicidad. Considerando la tasa de conversión promedio del 1.08%, esto podría traducirse en aproximadamente 8 nuevos clientes generados a través de la campaña.
 
 **Estimación de Conversion Rate Final**
 
-Al promediar las tasas de conversión de Facebook Ads (13.58%), Google Ads (5.93%) e Instagram Ads (1.08%) para el sector educativo, obtenemos una estimación de la tasa de conversión final de aproximadamente el 6.86%. Esta cifra combinada ofrece una visión general de la posible efectividad de nuestras campañas publicitarias en estas plataformas para promocionar servicios educativos.
-
 Es crucial tener en cuenta que las tasas de conversión y los CTR pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
 
-[^13]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
+**Numero final de clientes**
 
-[^14]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
+En resumen, al considerar las estimaciones de clientes generados a través de las campañas publicitarias en Facebook Ads, Instagram Ads y Google Ads, se proyecta un total de 935 nuevos clientes potenciales.
 
-[^15]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+[^11]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^16]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
+[^12]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
+
+[^13]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+
+[^14]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
 
 \newpage
-
 
 ## 11. Produccion y operaciones
 
@@ -630,9 +637,9 @@ Con este enfoque, lanzaremos un producto inicial sólido que destaque por la cal
 
 **Medios Técnicos:**
 
-- Servidores de Alta Capacidad: Para garantizar la escalabilidad y robustez de nuestra plataforma de educación en línea, se adquirirán tres servidores HP ProLiant ML350 Gen10 [^17]. Estos servidores son conocidos por su alta capacidad de procesamiento y expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. Estarán ubicados en las instalaciones de uno de nuestros socios tecnológicos, lo que minimiza la necesidad de espacio físico adicional y reduce costos operativos. El costo de cada servidor es aproximadamente de $5,000, sumando un total de $15,000 para la adquisición inicial.
+- Servidores de Alta Capacidad: Para garantizar la escalabilidad y robustez de nuestra plataforma de educación en línea, se adquirirán tres servidores HP ProLiant ML350 Gen10 [^15]. Estos servidores son conocidos por su alta capacidad de procesamiento y expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. Estarán ubicados en las instalaciones de uno de nuestros socios tecnológicos, lo que minimiza la necesidad de espacio físico adicional y reduce costos operativos. El costo de cada servidor es aproximadamente de $5,000, sumando un total de $15,000 para la adquisición inicial.
 
-[^17]: FUENTE: [PC Components](https://www.pccomponentes.com/hp-proliant-ml350-gen10-intel-xeon-gold-5218r-32gb?campaigntype=eshopping&campaignchannel=shopping&gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AsYT97wEWhP1LLdCElJMpDvCbmRdHR9LGyzccD9iJg-iinPLmFd3QaAslGEALw_wcB)
+[^15]: FUENTE: [PC Components](https://www.pccomponentes.com/hp-proliant-ml350-gen10-intel-xeon-gold-5218r-32gb?campaigntype=eshopping&campaignchannel=shopping&gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AsYT97wEWhP1LLdCElJMpDvCbmRdHR9LGyzccD9iJg-iinPLmFd3QaAslGEALw_wcB)
 
 - Equipos Informáticos: Utilizaremos los equipos personales de nuestro equipo técnico, que ya cuentan con las especificaciones necesarias para el desarrollo y mantenimiento de aplicaciones de alta demanda. Esta estrategia reduce la inversión inicial en hardware y permite una mayor flexibilidad operativa.
 
