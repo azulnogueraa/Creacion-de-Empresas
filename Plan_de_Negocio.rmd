@@ -510,6 +510,7 @@ El ancho de banda disponible es crucial para garantizar una experiencia de usuar
 
 Basándonos en las especificaciones de nuestra infraestructura técnica, podemos estimar nuestro mercado obtenible considerando el ancho de banda disponible en nuestros servidores.
 
+
 \[
 \text{Ancho de Banda Disponible} = 1000 \text{ Mbps}
 \]
