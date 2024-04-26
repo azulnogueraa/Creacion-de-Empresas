@@ -519,10 +519,10 @@ Según datos del Ministerio de Universidades de España para el curso académico
 
 | Nivel de estudio        | Cantidad de estudiantes |
 |-------------------------|-------------------------|
-| Grado y ciclo           |               1.353.347 |
-| Master                  |                 276.518 |
-| Doctorado               |                  92.382 |
-| Total                   |           **1.722.247** |
+| Grado y ciclo           |               1,353,347 |
+| Master                  |                 276,518 |
+| Doctorado               |                  92,382 |
+| Total                   |           **1,722,247** |
 
 
 [^7]: FUENTE: [Ministerio de Universidades de España](https://www.universidades.gob.es/wp-content/uploads/2023/06/Principales-resultados_EEU_2022-23.pdf)
@@ -533,7 +533,7 @@ Estos números representan la base potencial de clientes a los que podemos dirig
 
 Para determinar nuestro SAM (Servicio Total Disponible), utilizamos los resultados de encuestas exhaustivas que nos proporcionaron una estimación realista del porcentaje de alumnos universitarios dispuestos a consumir nuestro servicio. A partir de estos datos, identificamos que aproximadamente el 42.1% de los encuestados mostraron disposición a pagar el precio que hemos establecido.
 
-Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1.722.247, y aplicando el porcentaje de disposición a pagar (42.1%). Por lo tanto, nuestro SAM se estima en 1.722.247 x 42.1% = 725.065 potenciales usuarios.
+Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1,722,247, y aplicando el porcentaje de disposición a pagar (42.1%). Por lo tanto, nuestro SAM se estima en 1,722,247 x 42.1% = 725,065 potenciales usuarios.
 Este cálculo nos proporciona una base sólida para comprender la demanda inicial de nuestro servicio entre los estudiantes universitarios en España que valoran la formación complementaria y especializada que ofrecemos. Estamos enfocados en capturar una parte significativa de este mercado objetivo inicial, aprovechando la disposición de la mayoría de los estudiantes encuestados a invertir en nuestra propuesta de valor.
 
 ### 9.6. SOM (Mercado Obtenible)
