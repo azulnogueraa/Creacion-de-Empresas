@@ -7,9 +7,9 @@ author:
 - Rafael Cabre
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 lang: "es-ES"
 subtitle: "Link al repositorio: [https://github.com/azulnogueraa/Creacion-de-Empresas](https://github.com/azulnogueraa/Creacion-de-Empresas)"
 toc: yes
@@ -531,7 +531,7 @@ Estos números representan la base potencial de clientes a los que podemos dirig
 
 ### 9.5. SAM (Mercado Objetivo)
 
-Para determinar nuestro SAM (Servicio Total Disponible), utilizamos los resultados de encuestas exhaustivas que nos proporcionaron una estimación realista del porcentaje de alumnos universitarios dispuestos a consumir nuestro servicio. A partir de estos datos, identificamos que aproximadamente el 80% de los encuestados mostraron disposición a pagar el precio que hemos establecido.
+Para determinar nuestro SAM (Servicio Total Disponible), utilizamos los resultados de encuestas exhaustivas que nos proporcionaron una estimación realista del porcentaje de alumnos universitarios dispuestos a consumir nuestro servicio. A partir de estos datos, identificamos que aproximadamente el 42.1% de los encuestados mostraron disposición a pagar el precio que hemos establecido.
 
 Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1.722.247, y aplicando el porcentaje de disposición a pagar (42.1%). Por lo tanto, nuestro SAM se estima en 1.722.247 x 42.1% = 725.065 potenciales usuarios.
 Este cálculo nos proporciona una base sólida para comprender la demanda inicial de nuestro servicio entre los estudiantes universitarios en España que valoran la formación complementaria y especializada que ofrecemos. Estamos enfocados en capturar una parte significativa de este mercado objetivo inicial, aprovechando la disposición de la mayoría de los estudiantes encuestados a invertir en nuestra propuesta de valor.
@@ -631,7 +631,7 @@ Los conversion rates y los click-through rates (CTR) en las plataformas publicit
 
 **Facebook Ads**
 
-Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^11]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas. Además, el CTR para Facebook Ads es del 0.73% [^11], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo.
+Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^11]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas. Además, el CTR para Facebook Ads es del 0.73% [^12], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo.
 
 Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Facebook Ads. Según los datos proporcionados por Neo Attack, el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. Supongamos un CPM de 3€. Con un presupuesto de 500 euros, con este CPM se pueden alcanzar aproximadamente 166,666 visualizaciones del anuncio. Si mantenemos un CTR del 0.73%, se esperaría obtener alrededor de 1,217 clics en la publicidad. Considerando la tasa de conversión promedio del 13.58%, esto podría traducirse en aproximadamente 165 nuevos clientes generados a través de la campaña.
 
@@ -639,13 +639,13 @@ Al considerar estas métricas, se puede estimar el rendimiento de una campaña p
 
 **Google Ads**
 
-En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^12]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^12], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^13]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^14], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
 
 Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Google Ads. Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global, alrededor de $2.40. Con un presupuesto de 500 euros y este CPM, se pueden alcanzar aproximadamente 208,333 visualizaciones del anuncio. Si mantenemos un CTR del 6.17%, se esperaría obtener alrededor de 12,843 clics en la publicidad. Considerando la tasa de conversión promedio del 5.93%, esto podría traducirse en aproximadamente 762 nuevos clientes generados a través de la campaña.
 
 **Instagram Ads**
 
-Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^13]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^14].
+Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^15]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^16].
 
 Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Instagram Ads. De acuerdo con la información de Dinamiza Digital, el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€. Tomando un valor medio de 3,68€. Con un presupuesto de 500 euros y este CPM, se pueden alcanzar aproximadamente 135,870 visualizaciones del anuncio. Suponiendo un CTR del 0.52%, se esperaría obtener alrededor de 706 clics en la publicidad. Considerando la tasa de conversión promedio del 1.08%, esto podría traducirse en aproximadamente 8 nuevos clientes generados a través de la campaña.
 
@@ -659,11 +659,15 @@ En resumen, al considerar las estimaciones de clientes generados a través de la
 
 [^11]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^12]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
+[^12]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
-[^13]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+[^13]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
 
-[^14]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
+[^14]: FUENTE: [2022 Google Ads & Microsoft Ads Benchmarks for Every Industry.](https://www.wordstream.com/blog/ws/2022/05/18/search-advertising-benchmarks)
+
+[^15]: FUENTE: [Instagram Ads: ¿Cómo crearlos en 2023 para convertir?](https://visme.co/blog/es/instagram-ads/)
+
+[^16]: FUENTE: [Instagram Analytics](https://lorenzo-gonzalez.com/instagram-analytics-las-9-metricas-mas-importantes-para-medir-tu-exito/#:~:text=Tasas%20de%20clics%20de%20anuncios%20(CTR),-El%20objetivo%20principal&text=Las%20tasas%20de%20clics%20promedio,%2C52%25%2Cseg%C3%BAn%20Adstage.)
 
 \newpage
 
@@ -687,19 +691,19 @@ Con este enfoque, lanzaremos un producto inicial sólido que destaque por la cal
 
 **Localización**
 
-En los primeros años de funcionamiento, contaremos con un piso alquilado que servirá como lugar para alojar nuestros servidores y como oficina de trabajo. El alquiler mensual de este espacio está establecido en \$7700 [^15]. Además, para acondicionar adecuadamente este espacio y hacerlo funcional como área de trabajo y alojamiento para los servidores, planeamos invertir aproximadamente \$3000 en mobiliario y equipamiento de oficina. Esta inversión incluirá la compra de escritorios, sillas, estanterías y otros elementos necesarios para un entorno de trabajo cómodo y eficiente.
+En los primeros años de funcionamiento, contaremos con un piso alquilado que servirá como lugar para alojar nuestros servidores y como oficina de trabajo. El alquiler mensual de este espacio está establecido en \$7700 [^17]. Además, para acondicionar adecuadamente este espacio y hacerlo funcional como área de trabajo y alojamiento para los servidores, planeamos invertir aproximadamente \$3000 en mobiliario y equipamiento de oficina. Esta inversión incluirá la compra de escritorios, sillas, estanterías y otros elementos necesarios para un entorno de trabajo cómodo y eficiente.
 
 Es fundamental destacar que el costo de amueblar el espacio se amortizará a lo largo de los próximos cinco años, reflejando la vida útil esperada de los muebles y equipos de oficina. Esta inversión inicial nos permitirá contar con un entorno adecuado para operar eficazmente y albergar nuestra infraestructura tecnológica.
 
-[^15]: FUENTE: [idealista.com](https://www.idealista.com/inmueble/104686841/)
+[^17]: FUENTE: [idealista.com](https://www.idealista.com/inmueble/104686841/)
 
 ### 11.2. Instalaciones, Medios y Equipos
 
 **Medios Técnicos:**
 
-- Servidores de Alta Capacidad: Con el fin de asegurar la escalabilidad y la robustez de nuestra plataforma de educación en línea, planeamos adquirir tres servidores IBM Power S1014 [^16]. Estos servidores son reconocidos por su alto rendimiento en procesamiento y su capacidad de expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. El costo estimado de cada servidor es de aproximadamente \$15,000, lo que resulta en una inversión inicial total de \$45,000 para esta adquisición.
+- Servidores de Alta Capacidad: Con el fin de asegurar la escalabilidad y la robustez de nuestra plataforma de educación en línea, planeamos adquirir tres servidores IBM Power S1014 [^18]. Estos servidores son reconocidos por su alto rendimiento en procesamiento y su capacidad de expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. El costo estimado de cada servidor es de aproximadamente \$15,000, lo que resulta en una inversión inicial total de \$45,000 para esta adquisición.
 
-[^16]: FUENTE: [ibm.com](https://www.ibm.com/es-es/products/power-s1014)
+[^18]: FUENTE: [ibm.com](https://www.ibm.com/es-es/products/power-s1014)
 
 Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desarrollo y soporte técnico, hemos invertido en computadoras de última generación con capacidades de procesamiento y memoria adecuadas para tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma. Estimamos un costo de aproximadamente \$2,000 dólares por computadora, lo que totaliza una inversión inicial de \$12,000 dólares para seis equipos. Dado que estos equipos tienen una vida útil de aproximadamente 5 años, planeamos amortizar esta inversión a lo largo de este periodo, distribuyendo los costos a lo largo del tiempo para reflejar adecuadamente su valor a lo largo de su ciclo de vida útil.
 
