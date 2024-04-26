@@ -7,9 +7,9 @@ author:
 - Rafael Cabre
 date: "`r Sys.Date()`"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 lang: "es-ES"
 subtitle: "Link al repositorio: [https://github.com/azulnogueraa/Creacion-de-Empresas](https://github.com/azulnogueraa/Creacion-de-Empresas)"
 toc: yes
@@ -576,7 +576,7 @@ Basándonos en las especificaciones de nuestra infraestructura técnica, podemos
 \]
 
 \[
-\text{Número Total de Estudiantes (SOM)} = \text{Número de Estudiantes por Servidor} \times \text{Número de Servidores} = 40,000 \times 3 = 120,000
+\text{Número Total de Estudiantes (SOM)} = 40,000 \times 3 = 120,000
 \]
 
 Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servidores (100 Gbps cada uno), podemos atender de manera efectiva hasta 120,000 estudiantes simultáneamente, considerando el requisito de 2.5 Mbps por estudiante. Esta estimación respalda nuestra capacidad para ofrecer una experiencia educativa en línea robusta y escalable.
@@ -676,15 +676,19 @@ En resumen, al considerar las estimaciones de clientes generados a través de la
 ### 11.1 Servicio Minimo Viable y localizacion
 
 **Desarrollo de Cursos Originales**
+
 Crearemos cursos de tecnología completamente originales, diseñados internamente por nuestro equipo experto. Estos cursos se adaptarán a diferentes estilos de aprendizaje e intereses de los usuarios, permitiendo una mayor personalización y relevancia.
 
 **Aprendizaje Adaptativo Básico**
+
 Implementaremos funcionalidades de aprendizaje adaptativo que ajusten el nivel de dificultad y el ritmo del curso según el progreso del estudiante. Este proceso inicialmente será supervisado por instructores y evolucionará hacia un enfoque más automatizado con algoritmos simples.
 
 **Encuestas de Retroalimentación**
+
 Realizaremos encuestas periódicas para recopilar información detallada sobre la experiencia de aprendizaje de los estudiantes. Esto nos permitirá identificar áreas de mejora y adaptar de manera personalizada el contenido y la estructura de nuestros cursos.
 
 **Comunidad**
+
 Facilitaremos un espacio interactivo donde los estudiantes puedan conectar entre sí y con los instructores. Este entorno permitirá discusiones, intercambio de recursos y brindará una plataforma para recibir retroalimentación directa sobre la experiencia de aprendizaje.
 
 Con este enfoque, lanzaremos un producto inicial sólido que destaque por la calidad y la personalización de nuestros cursos originales. A medida que obtengamos retroalimentación y validemos nuestro enfoque, podremos expandirnos a otras áreas de aprendizaje y mejorar la funcionalidad de la plataforma.
