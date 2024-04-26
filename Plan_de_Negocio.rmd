@@ -685,15 +685,23 @@ Facilitaremos un espacio interactivo donde los estudiantes puedan conectar entre
 
 Con este enfoque, lanzaremos un producto inicial sólido que destaque por la calidad y la personalización de nuestros cursos originales. A medida que obtengamos retroalimentación y validemos nuestro enfoque, podremos expandirnos a otras áreas de aprendizaje y mejorar la funcionalidad de la plataforma.
 
+**Localización**
+
+En los primeros años de funcionamiento, contaremos con un piso alquilado que servirá como lugar para alojar nuestros servidores y como oficina de trabajo. El alquiler mensual de este espacio está establecido en \$7700 [^15]. Además, para acondicionar adecuadamente este espacio y hacerlo funcional como área de trabajo y alojamiento para los servidores, planeamos invertir aproximadamente \$3000 en mobiliario y equipamiento de oficina. Esta inversión incluirá la compra de escritorios, sillas, estanterías y otros elementos necesarios para un entorno de trabajo cómodo y eficiente.
+
+Es fundamental destacar que el costo de amueblar el espacio se amortizará a lo largo de los próximos cinco años, reflejando la vida útil esperada de los muebles y equipos de oficina. Esta inversión inicial nos permitirá contar con un entorno adecuado para operar eficazmente y albergar nuestra infraestructura tecnológica.
+
+[^15]: FUENTE: [idealista.com](https://www.idealista.com/inmueble/104686841/)
+
 ### 11.2. Instalaciones, Medios y Equipos
 
 **Medios Técnicos:**
 
-- Servidores de Alta Capacidad: Para garantizar la escalabilidad y robustez de nuestra plataforma de educación en línea, se adquirirán tres servidores HP ProLiant ML350 Gen10 [^15]. Estos servidores son conocidos por su alta capacidad de procesamiento y expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. Estarán ubicados en las instalaciones de uno de nuestros socios tecnológicos, lo que minimiza la necesidad de espacio físico adicional y reduce costos operativos. El costo de cada servidor es aproximadamente de $5,000, sumando un total de $15,000 para la adquisición inicial.
+- Servidores de Alta Capacidad: Con el fin de asegurar la escalabilidad y la robustez de nuestra plataforma de educación en línea, planeamos adquirir tres servidores IBM Power S1014 [^16]. Estos servidores son reconocidos por su alto rendimiento en procesamiento y su capacidad de expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. El costo estimado de cada servidor es de aproximadamente \$15,000, lo que resulta en una inversión inicial total de \$45,000 para esta adquisición.
 
-[^15]: FUENTE: [PC Components](https://www.pccomponentes.com/hp-proliant-ml350-gen10-intel-xeon-gold-5218r-32gb?campaigntype=eshopping&campaignchannel=shopping&gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AsYT97wEWhP1LLdCElJMpDvCbmRdHR9LGyzccD9iJg-iinPLmFd3QaAslGEALw_wcB)
+[^16]: FUENTE: [ibm.com](https://www.ibm.com/es-es/products/power-s1014)
 
-- Equipos Informáticos: Utilizaremos los equipos personales de nuestro equipo técnico, que ya cuentan con las especificaciones necesarias para el desarrollo y mantenimiento de aplicaciones de alta demanda. Esta estrategia reduce la inversión inicial en hardware y permite una mayor flexibilidad operativa.
+Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desarrollo y soporte técnico, hemos invertido en computadoras de última generación con capacidades de procesamiento y memoria adecuadas para tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma. Estimamos un costo de aproximadamente \$2,000 dólares por computadora, lo que totaliza una inversión inicial de \$12,000 dólares para seis equipos. Dado que estos equipos tienen una vida útil de aproximadamente 5 años, planeamos amortizar esta inversión a lo largo de este periodo, distribuyendo los costos a lo largo del tiempo para reflejar adecuadamente su valor a lo largo de su ciclo de vida útil.
 
 **Infraestructura:**
 
@@ -705,13 +713,15 @@ Con este enfoque, lanzaremos un producto inicial sólido que destaque por la cal
 
 **Inversión:**
 
-- Costos de Implementación: Además de la compra de los servidores, se invertirán aproximadamente $1,000 en la instalación y configuración inicial, asegurando que la infraestructura tecnológica esté óptimamente preparada para soportar nuestras operaciones desde el inicio.
+- Costos de Implementación: Además de la compra de los servidores, se invertirán aproximadamente \$2,000 en la instalación y configuración inicial, asegurando que la infraestructura tecnológica esté óptimamente preparada para soportar nuestras operaciones desde el inicio.
 
 | Categoría                             | Detalle                                | Costo (USD)    |
 |---------------------------------------|----------------------------------------|----------------|
-| Servidores de Alta Capacidad          | 3 x HP ProLiant ML350 Gen10            | $15,000        |
-| Instalación y Configuración           | Configuración inicial de servidores    | $1,000         |
-| **Total Estimado**                    |                                        | **16,000**     |
+| Servidores de Alta Capacidad          | 3 x IBM Power S1014                    | $45,000        |
+| Instalación y Configuración           | Configuración inicial de servidores    | $2,000         |
+| Equipos informáticos                  | 6 x Dell Precision 5470                | $12,000        |
+| Equipamiento oficinas                 | Sillas, escritorios, estanterías       | $3,000         |
+| **Total Estimado**                    |                                        | **62,000**     |
 
 
 Esta planificación estratégica de la inversión en infraestructura tecnológica crea una base sólida para el lanzamiento y la expansión de nuestra plataforma educativa en línea. Al invertir en servidores de alta capacidad y desarrollar internamente nuestras soluciones de IA, estamos asegurando que nuestra plataforma no solo cumpla con los requisitos actuales de los usuarios sino que también esté preparada para adaptarse a las necesidades futuras, proporcionando así una experiencia educativa en línea superior y altamente confiable.
