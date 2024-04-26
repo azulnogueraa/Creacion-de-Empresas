@@ -840,7 +840,24 @@ Esta planificación estratégica de la inversión en infraestructura tecnológic
 
 ### 12.1. Necesidades económicas del proyecto
 
-![Necesidades Economicas](img/necesidad_economica.png){ width=50% }
+| Categoria                    | Costo (USD) |
+|------------------------------|------------:|
+| **Instalaciones, Medios y Equipo** |             |
+| Servidores de Alta capacidad |     $45,000 |
+| Instalación y Configuración  |      $2,000 |
+| Equipos informáticos         |     $12,000 |
+| Equipos oficinas             |      $3,000 |
+| Renta (Annual)               |     $92,400 |
+| **Total estimado**           |    **$154,400** |
+|                              |             |
+| **Costos de marketing**      |             |
+| Facebook ads                 |        $500 |
+| Instagram ads                |        $500 |
+| Google ads                   |        $500 |
+| **Total Estimado**           |     **$1,500** |
+|                              |             |
+| **Total De Inversion**       |   **$155,900** |
+
 
 ### 12.2 Fuentes de Financiacion
 
@@ -854,6 +871,26 @@ El equipo fundador de la plataforma también contribuirá con una parte signific
 
 La inversión total del capital social de la empresa después de estas contribuciones ascenderá a $160,000, superando así nuestra inversión inicial en el proyecto. Este aumento en el capital social se destina a proporcionar márgenes de seguridad durante los primeros años de operación de la empresa.
 
+
+\newpage
+
 ### 12.3. Presupuesto
 
-![Presupuesto](img/presupuesto.png){ width=100% }
+|        años          | 0       | 1         | 2           | 3           | 4           | 5           |
+|----------------------|---------|-----------|-------------|-------------|-------------|-------------|
+| Ingreso de ventas    |         | $ 673,200 | $ 1,548,360 | $ 2,686,020 | $ 4,165,020 | $ 6,087,720 |
+| gastos totales       |         | $ 155,900 | $ 155,900   | $ 155,900   | $ 155,900   | $ 155,900   |
+| EBITDA               |         | $ 517,300 | $ 1,392,460 | $ 2,530,120 | $ 4,009,120 | $ 5,931,820 |
+| Gastos financieros   |         | $ 0       | $ 0         | $ 0         | $ 0         | $ 0         |
+| Amortizaciones       |         | $ 31,180  | $ 31,180    | $ 31,180    | $ 31,180.   | $ 31,180    |
+| BAIT                 |         | $ 486,120 | $ 1,361,280 | $ 2,498,940 | $ 3,977,940 | $ 5,900,640 |
+| Impuesto 15%         |         |  $ 72,918 | $ 204,192   | $ 374,841   | $ 596,691   | $ 885,096   |
+| Inversion            |$155,900 | $ 0       | $ 0         | $ 0         | $ 0         |             |
+| Beneficio Neto       |         | $ 413,202 | $ 1,157,088 | $ 2,124,099 | $ 3,381,249 | $ 5,015,544 |
+
+
+
+
+
+
+
