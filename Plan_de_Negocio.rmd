@@ -607,7 +607,7 @@ Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servido
 - Campaña de Palabras Clave: Desarrollaremos una campaña publicitaria enfocada en capturar la búsqueda de palabras clave relevantes para nuestro sector, tales como "clases particulares" y "educadores particulares", entre otros términos clave. Esta estrategia nos permitirá posicionarnos de manera destacada en los resultados de búsqueda y llegar a una audiencia altamente motivada en su búsqueda de soluciones educativas.
 - Constante Evaluación y Optimización: Nos comprometemos a realizar una evaluación continua de nuestra campaña publicitaria en Google Ads para garantizar una generación efectiva de tráfico hacia nuestro sitio web. Esto implicará un monitoreo constante de los datos de rendimiento y la realización de ajustes estratégicos según sea necesario para maximizar el impacto y la eficacia de nuestra inversión publicitaria.
 
-### 10.2. Costo de la promocióGn
+### 10.2. Costo de la promoción
 
 En nuestro análisis de costos, emplearemos el modelo del Costo por Mil Impresiones (CPM), una métrica fundamental en la publicidad en línea, que cuantifica el costo que los anunciantes incurren por cada mil impresiones de sus anuncios. Esta métrica nos permite evaluar el alcance y la efectividad de nuestras campañas publicitarias, ofreciendo una visión integral de nuestra inversión en marketing digital.
 
@@ -633,9 +633,10 @@ Es importante tener en cuenta que estas cifras son estimaciones aproximadas y qu
 
 Los conversion rates y los click-through rates (CTR) en las plataformas publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar significativamente. Se observa que:
 
-#### Facebook Ads
 
-**Paso 1: Determinar el Número de Impresiones**
+**Facebook Ads**
+
+\textbf{Paso 1: Determinar el Número de Impresiones}
 
 Asignamos un presupuesto de 500 euros para la campaña. Con un Costo Por Mil impresiones (CPM) de 3 euros, el total de impresiones que podemos obtener se calcula de la siguiente manera:
 
@@ -665,21 +666,63 @@ Este análisis proporciona una visión clara del impacto potencial de una invers
 
 **Google Ads**
 
-En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93% para la búsqueda (Search) [^13]. Esta plataforma también muestra un rendimiento sólido en términos de conversion rates para las instituciones educativas que utilizan sus servicios publicitarios. El CTR para Google Ads es del 6.17% [^14], lo que indica una alta interacción de los usuarios con los anuncios en los resultados de búsqueda y en sitios web asociados.
+\textbf{Paso 1: Determinar el Número de Impresiones}
 
-Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Google Ads. Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global, alrededor de $2.40. Con un presupuesto de 500 euros y este CPM, se pueden alcanzar aproximadamente 208,333 visualizaciones del anuncio. Si mantenemos un CTR del 6.17%, se esperaría obtener alrededor de 12,843 clics en la publicidad. Considerando la tasa de conversión promedio del 5.93%, esto podría traducirse en aproximadamente 762 nuevos clientes generados a través de la campaña.
+Asignamos un presupuesto de 500 euros para la campaña. Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global, alrededor de 2.40 euros. El total de impresiones que podemos obtener se calcula de la siguiente manera:
+
+\[
+\text{Impresiones Totales} = \frac{500 \, \text{euros} \times 1000}{2.40 \, \text{euros por mil impresiones}} = 208,333 \, \text{impresiones aproximadamente}
+\]
+
+\textbf{Paso 2: Calcular los Clics Esperados}
+
+El CTR para Google Ads es del 6.17\% [^14], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo. Utilizando este dato, estimamos el número de clics que estas impresiones generarán:
+
+\[
+\text{Clics Esperados} = 208,333 \, \text{impresiones} \times \frac{6.17}{100} = 12,843 \, \text{clics}
+\]
+
+\textbf{Paso 3: Estimar las Conversiones}
+
+En el caso de Google Ads, la tasa de conversión promedio para el sector educativo se sitúa alrededor del 5.93\% para la búsqueda (Search) [^13]. Utilizando este dato, calculamos el número de conversiones esperadas de los usuarios que hicieron clic:
+
+\[
+\text{Conversiones Esperadas} = 12,843 \, \text{clics} \times \frac{5.93}{100} = 762 \, \text{conversiones}
+\]
+
+Este análisis proporciona una visión clara del impacto potencial de una inversión de 500 euros en una campaña de Google Ads dirigida al sector educativo.
 
 **Instagram Ads**
 
-Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08% [^15]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52% [^16].
+\textbf{Paso 1: Determinar el Número de Impresiones}
 
-Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Instagram Ads. De acuerdo con la información de Dinamiza Digital, el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€. Tomando un valor medio de 3,68€. Con un presupuesto de 500 euros y este CPM, se pueden alcanzar aproximadamente 135,870 visualizaciones del anuncio. Suponiendo un CTR del 0.52%, se esperaría obtener alrededor de 706 clics en la publicidad. Considerando la tasa de conversión promedio del 1.08%, esto podría traducirse en aproximadamente 8 nuevos clientes generados a través de la campaña.
+Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08\% [^15]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52\% [^16]. De acuerdo con la información de Dinamiza Digital, el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€. Tomando un valor medio de 3,68€. El total de impresiones que podemos obtener se calcula de la siguiente manera:
 
-**Estimación de Conversion Rate Final**
+\[
+\text{Impresiones Totales} = \frac{500 \, \text{euros} \times 1000}{3.68 \, \text{euros por mil impresiones}} = 135,870 \, \text{impresiones aproximadamente}
+\]
 
-Es crucial tener en cuenta que las tasas de conversión y los CTR pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital en el sector educativo.
+\textbf{Paso 2: Calcular los Clics Esperados}
+
+Utilizando un CTR del 0.52\%, estimamos el número de clics que estas impresiones generarán:
+
+\[
+\text{Clics Esperados} = 135,870 \, \text{impresiones} \times \frac{0.52}{100} = 706 \, \text{clics}
+\]
+
+\textbf{Paso 3: Estimar las Conversiones}
+
+Considerando una tasa de conversión promedio del 1.08\%, calculamos el número de conversiones esperadas de los usuarios que hicieron clic:
+
+\[
+\text{Conversiones Esperadas} = 706 \, \text{clics} \times \frac{1.08}{100} = 8 \, \text{conversiones}
+\]
+
+Este análisis proporciona una visión clara del impacto potencial de una inversión de 500 euros en una campaña de Instagram Ads dirigida al sector educativo.
 
 **Numero final de clientes**
+
+Es crucial tener en cuenta que las tasas de conversión y los CTR pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital.
 
 En resumen, al considerar las estimaciones de clientes generados a través de las campañas publicitarias en Facebook Ads, Instagram Ads y Google Ads, se proyecta un total de 935 nuevos clientes potenciales.
 
@@ -699,7 +742,7 @@ En resumen, al considerar las estimaciones de clientes generados a través de la
 
 ## 11. Produccion y operaciones
 
-### 11.1 Servicio Minimo Viable y localizacion
+### 11.1. Servicio Minimo Viable y localizacion
 
 **Desarrollo de Cursos Originales**
 
@@ -793,5 +836,24 @@ Esta planificación estratégica de la inversión en infraestructura tecnológic
 
 \newpage
 
+## 12. Financiación y análisis económico-financiero
 
+### 12.1. Necesidades económicas del proyecto
 
+![Necesidades Economicas](img/necesidad_economica.png){ width=50% }
+
+### 12.2 Fuentes de Financiacion
+
+**Crowdfunding de Capital**
+
+La empresa buscará obtener fondos mediante una campaña de crowdfunding, involucrando a pequeños inversores que contribuyan financieramente a cambio de acciones de la empresa. Estas acciones representarán su participación en la plataforma. Los términos y condiciones asociados incluirán aspectos como el porcentaje de participación en la empresa, derechos de voto en asuntos importantes, acceso a dividendos en caso de rentabilidad y posibles derechos preferenciales en caso de liquidación. La empresa ha asegurado un capital de $80,000 mediante crowdfunding, lo que equivale al 50% del capital social.
+
+**Inversión de Capital del Equipo Promotor**
+
+El equipo fundador de la plataforma también contribuirá con una parte significativa del capital necesario para financiar el proyecto. Esta inversión refleja un sólido compromiso por parte del equipo con la visión y el éxito de la plataforma. La inversión personal del equipo fundador resalta la confianza en el potencial de la plataforma y puede servir como una señal positiva para los inversores externos interesados en participar en nuestra empresa. El equipo fundador aportará $80,000 de capital personal, lo que equivale al 50% del capital social de la empresa.
+
+La inversión total del capital social de la empresa después de estas contribuciones ascenderá a $160,000, superando así nuestra inversión inicial en el proyecto. Este aumento en el capital social se destina a proporcionar márgenes de seguridad durante los primeros años de operación de la empresa.
+
+### 12.3. Presupuesto
+
+![Presupuesto](img/presupuesto.png){ width=100% }
