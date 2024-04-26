@@ -692,6 +692,8 @@ En el caso de Google Ads, la tasa de conversión promedio para el sector educati
 
 Este análisis proporciona una visión clara del impacto potencial de una inversión de 500 euros en una campaña de Google Ads dirigida al sector educativo.
 
+\newpage
+
 **Instagram Ads**
 
 \textbf{Paso 1: Determinar el Número de Impresiones}
