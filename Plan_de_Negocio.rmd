@@ -536,17 +536,21 @@ Para determinar nuestro SAM (Servicio Total Disponible), utilizamos los resultad
 Basándonos en esta información, calculamos nuestro mercado objetivo inicial tomando el total de estudiantes universitarios en España, que es de 1.722.247, y aplicando el porcentaje de disposición a pagar (42.1%). Por lo tanto, nuestro SAM se estima en 1.722.247 x 42.1% = 725.065 potenciales usuarios.
 Este cálculo nos proporciona una base sólida para comprender la demanda inicial de nuestro servicio entre los estudiantes universitarios en España que valoran la formación complementaria y especializada que ofrecemos. Estamos enfocados en capturar una parte significativa de este mercado objetivo inicial, aprovechando la disposición de la mayoría de los estudiantes encuestados a invertir en nuestra propuesta de valor.
 
-
-
 ### 9.6. SOM (Mercado Obtenible)
 
-El mercado obtenible de nuestra startup se define por la capacidad técnica de nuestra infraestructura para atender de manera efectiva a estudiantes universitarios interesados en nuestros servicios de formación complementaria. Esta métrica se basa en la capacidad de nuestros servidores y el ancho de banda disponible.
+El mercado obtenible de nuestra startup se define por la capacidad técnica de nuestra infraestructura para atender de manera eficaz a estudiantes universitarios interesados en nuestros servicios de formación complementaria. Esta métrica se fundamenta en la capacidad de nuestros servidores y el ancho de banda disponible.
 
 **Capacidad de Servidores**
 
-Para determinar nuestro mercado obtenible, evaluamos la capacidad de nuestros servidores para manejar el tráfico y la carga de trabajo asociada con la entrega de nuestros cursos en línea. Actualmente, utilizamos tres servidores HP ProLiant ML350 Gen10 con procesadores Intel Xeon Gold 5218R y 32GB de RAM para alojar nuestra plataforma educativa.
+Para determinar nuestro mercado obtenible, evaluamos la capacidad de nuestros servidores para manejar el tráfico y la carga de trabajo asociada con la entrega de nuestros cursos en línea. 
 
-- Capacidad de Red: Nuestros servidores están equipados con tarjetas de red Gigabit Ethernet integradas que admiten velocidades de red estándar de 1 Gbps (Gigabit por segundo).
+Actualmente, contamos con tres servidores IBM Power S1014. Según las especificaciones proporcionadas por IBM, cada servidor tiene las siguientes características:
+
+- Procesador: Hasta 8 núcleos de procesador Power10
+
+- Memoria: Hasta 1 TB de RAM
+
+- Capacidad de Red: 100 Gbps (Gigabits por segundo)
 
 **Ancho de Banda**
 
@@ -560,7 +564,7 @@ Basándonos en las especificaciones de nuestra infraestructura técnica, podemos
 
 
 \[
-\text{Ancho de Banda Disponible} = 1000 \text{ Mbps}
+\text{Ancho de Banda Disponible} = 100 \text{ Gbps} = 100,000 \text{ Mbps}
 \]
 
 \[
@@ -568,14 +572,14 @@ Basándonos en las especificaciones de nuestra infraestructura técnica, podemos
 \]
 
 \[
-\text{Número de Estudiantes por Servidor} = \frac{\text{Ancho de Banda Disponible}}{\text{Ancho de Banda Requerido por Estudiante}} = \frac{1000}{2.5} = 400
+\text{Número de Estudiantes por Servidor} = \frac{\text{Ancho de Banda Disponible}}{\text{Ancho de Banda Requerido por Estudiante}} = \frac{100,000}{2.5} = 40,000
 \]
 
 \[
-\text{Número Total de Estudiantes (SOM)} = \text{Número de Estudiantes por Servidor} \times \text{Número de Servidores} = 400 \times 3 = 1200
+\text{Número Total de Estudiantes (SOM)} = \text{Número de Estudiantes por Servidor} \times \text{Número de Servidores} = 40,000 \times 3 = 120,000
 \]
 
-Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servidores (1000 Mbps cada uno), podemos atender de manera efectiva a hasta 1200 estudiantes simultáneamente, considerando el requisito de 2,5 Mbps por estudiante.
+Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servidores (100 Gbps cada uno), podemos atender de manera efectiva hasta 120,000 estudiantes simultáneamente, considerando el requisito de 2.5 Mbps por estudiante. Esta estimación respalda nuestra capacidad para ofrecer una experiencia educativa en línea robusta y escalable.
 
 \newpage
 
