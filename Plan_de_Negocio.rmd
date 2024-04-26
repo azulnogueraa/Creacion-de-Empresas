@@ -82,10 +82,14 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
   a. Menos de 17 años
   b. Entre 17 y 25 años
   c. Mayor a 25 años
+  
+![](img/años.png){ width=50% }
 
 - ¿Estás actualmente estudiando?
   a. Si
   b. No
+  
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/estudiando.png){ width=70% }
 
 - ¿Cuál es tu nivel educativo actual?
   a. Primaria
@@ -93,6 +97,8 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
   c. Universitaria
   d. Postgrado
   e. otra
+  
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/nivel.png){ width=70% }
 
 - ¿Qué dificultades has enfrentado con los métodos de enseñanza que frecuentas?
   a. Falta de personalización
@@ -101,26 +107,38 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
   d. No he enfrentado dificultades
   e. Otra
 
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/dificultades.png){ width=70% }
+
 - ¿Consideras que tus necesidades individuales de aprendizaje están siendo satisfechas?
   a. Si
   b. No
+  
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/necesidades.png){ width=70% }
 
 - ¿Que opinas de la IA?
   a. No me gusta, prefiero hacer las cosas a mi manera.
   b. Lo uso de vez en cuando.
   c. Me parece estupenda la IA, y aprovecho mucho su capacidad.
+  
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/IA.png){ width=70% }
 
 
 - ¿Has utilizado plataformas de educación en línea?
   a. Si
   b. No
   
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/utilizado.png){ width=70% }
+  
 - En general,  ¿terminas tus cursos?
   a. Si, termino todos los cursos que comienzo.
   b. Varios me quedaron incompletos.
   c. Nunca logro completarlos.
   
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/terminar.png){ width=70% }
+  
 - Si tu respuesta no fue la Opcion 1,  ¿por que crees que no lograste terminar determinados cursos?
+
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/porque.png){ width=70% }
 
 - Ahora responde teniendo en cuenta lo siguiente:
   Nosotros nos especializamos en ofrecer una plataforma de educación en línea altamente sofisticada,     diseñada para brindar un aprendizaje personalizado y de calidad superior. Nuestra plataforma se distingue por su enfoque en la adaptabilidad, permitiendo que cada usuario reciba una experiencia educativa adaptada a sus preferencias y ritmos individuales de aprendizaje. Desde la selección de contenido hasta la interacción con instructores, nuestro objetivo es garantizar que cada estudiante pueda alcanzar su máximo potencial de manera efectiva y satisfactoria.
@@ -132,7 +150,11 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
   d. 4
   e. 5
   
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/ratting.png){ width=70% }
+  
 - ¿Que caracteristicas buscas en una plataforma de educacion en linea?
+
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/caracteristicas.png){ width=70% }
 
 - ¿Como te gustaria interactuar con la IA en nuestra plataforma?
   a. Recomendaciones personalizadas
@@ -140,21 +162,21 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
   c. Adaptacion de ritmo y dificultad
   d. Todas las anteriores
   
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/interacción_IA.png){ width=70% }
+  
 - ¿Cuánto estarías dispuesto/a a pagar mensualmente en tu educación en línea?
   a. De 1€ a 15€ 
   b. De 15€ a 50€
   c. De 50€ a 100€
   d. Más de 100€
-
-- ¿Tienes alguna sugerencia para mejorar nuestra aplicacion?
+  
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/precio.png){ width=70% }
 
 - ¿Recomendarias la aplicacion?
   a. Si
   b. No
-
-
-### 3.2 Resultados
-##################FALTA COMPLETAR########################
+  
+![Campos de estudio en los que se anticipa mayor crecimiento en los programas en línea](img/recomendación.png){ width=70% }
 
 \newpage
 
