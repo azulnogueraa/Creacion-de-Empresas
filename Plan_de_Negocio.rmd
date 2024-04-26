@@ -540,6 +540,8 @@ Este cálculo nos proporciona una base sólida para comprender la demanda inicia
 
 El mercado obtenible de nuestra startup se define por la capacidad técnica de nuestra infraestructura para atender de manera eficaz a estudiantes universitarios interesados en nuestros servicios de formación complementaria. Esta métrica se fundamenta en la capacidad de nuestros servidores y el ancho de banda disponible.
 
+\newpage
+
 **Capacidad de Servidores**
 
 Para determinar nuestro mercado obtenible, evaluamos la capacidad de nuestros servidores para manejar el tráfico y la carga de trabajo asociada con la entrega de nuestros cursos en línea. 
@@ -592,6 +594,8 @@ Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servido
 - Interacción Orgánica: Nos comprometemos a mantener una presencia en línea sólida y dinámica a través de nuestra página oficial, la cual será gestionada por el Community Manager Rafael Cabré. Este profesional se encargará de garantizar un flujo constante de publicaciones diarias que se centrarán en dos áreas cruciales: la comunicación clara y convincente de nuestra propuesta de valor única, resaltando los aspectos diferenciadores de nuestro producto en el mercado; y la publicación de contenido relevante y actualizado relacionado con la educación y el estudio.
 - Publicidad Pautada: Implementaremos una estrategia publicitaria pautada en Facebook para potenciar el alcance y la visibilidad de nuestra plataforma. A través de campañas cuidadosamente diseñadas, buscaremos generar un crecimiento acelerado y dirigir un flujo constante de tráfico hacia nuestro sitio web.
 
+
+
 **Instagram**
 
 - Publicaciones Diarias: Trabajaremos en estrecha colaboración con nuestro Community Manager para desarrollar y mantener una programación de publicaciones diarias. Estas publicaciones se centrarán en transmitir nuestra propuesta de valor de manera efectiva, priorizando contenido visual de alta calidad, especialmente videos, para captar la atención de nuestra audiencia.
@@ -603,7 +607,7 @@ Por lo tanto, con la capacidad de ancho de banda actual de nuestros tres servido
 - Campaña de Palabras Clave: Desarrollaremos una campaña publicitaria enfocada en capturar la búsqueda de palabras clave relevantes para nuestro sector, tales como "clases particulares" y "educadores particulares", entre otros términos clave. Esta estrategia nos permitirá posicionarnos de manera destacada en los resultados de búsqueda y llegar a una audiencia altamente motivada en su búsqueda de soluciones educativas.
 - Constante Evaluación y Optimización: Nos comprometemos a realizar una evaluación continua de nuestra campaña publicitaria en Google Ads para garantizar una generación efectiva de tráfico hacia nuestro sitio web. Esto implicará un monitoreo constante de los datos de rendimiento y la realización de ajustes estratégicos según sea necesario para maximizar el impacto y la eficacia de nuestra inversión publicitaria.
 
-### 10.2. Costo de la promocion
+### 10.2. Costo de la promocióGn
 
 En nuestro análisis de costos, emplearemos el modelo del Costo por Mil Impresiones (CPM), una métrica fundamental en la publicidad en línea, que cuantifica el costo que los anunciantes incurren por cada mil impresiones de sus anuncios. Esta métrica nos permite evaluar el alcance y la efectividad de nuestras campañas publicitarias, ofreciendo una visión integral de nuestra inversión en marketing digital.
 
@@ -629,11 +633,33 @@ Es importante tener en cuenta que estas cifras son estimaciones aproximadas y qu
 
 Los conversion rates y los click-through rates (CTR) en las plataformas publicitarias clave como Facebook Ads, Google Ads e Instagram Ads pueden variar significativamente. Se observa que:
 
-**Facebook Ads**
+#### Facebook Ads
 
-Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^11]. Este nivel de conversión refleja la capacidad de Facebook para atraer y comprometer a audiencias educativas, destacando su eficacia como un canal publicitario relevante para las instituciones educativas. Además, el CTR para Facebook Ads es del 0.73% [^12], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo.
+**Paso 1: Determinar el Número de Impresiones**
 
-Al considerar estas métricas, se puede estimar el rendimiento de una campaña publicitaria en Facebook Ads. Según los datos proporcionados por Neo Attack, el CPM de una campaña en Facebook en España generalmente oscila entre 2 y 5€. Supongamos un CPM de 3€. Con un presupuesto de 500 euros, con este CPM se pueden alcanzar aproximadamente 166,666 visualizaciones del anuncio. Si mantenemos un CTR del 0.73%, se esperaría obtener alrededor de 1,217 clics en la publicidad. Considerando la tasa de conversión promedio del 13.58%, esto podría traducirse en aproximadamente 165 nuevos clientes generados a través de la campaña.
+Asignamos un presupuesto de 500 euros para la campaña. Con un Costo Por Mil impresiones (CPM) de 3 euros, el total de impresiones que podemos obtener se calcula de la siguiente manera:
+
+\[
+\text{Impresiones Totales} = \frac{500 \, \text{euros} \times 1000}{3 \, \text{euros por mil impresiones}} = 166,666 \, \text{impresiones aproximadamente}
+\]
+
+**Paso 2: Calcular los Clics Esperados**
+
+El CTR para Facebook Ads es del 0.73% [^12], lo que indica la proporción de usuarios que hacen clic en un anuncio después de verlo. Utilizando este dato, estimamos el número de clics que estas impresiones generarán:
+
+\[
+\text{Clics Esperados} = 166,666 \, \text{impresiones} \times \frac{0.73}{100} = 1,217 \, \text{clics}
+\]
+
+**Paso 3: Estimar las Conversiones**
+
+Según Wordstream, una cadena de marketing, la tasa de conversión promedio en Facebook Ads para el sector educativo se sitúa en torno al 13.58% [^11]. Utilizando este dato, calculamos el número de conversiones esperadas de los usuarios que hicieron clic:
+
+\[
+\text{Conversiones Esperadas} = 1,217 \, \text{clics} \times \frac{13.58}{100} = 165 \, \text{conversiones}
+\]
+
+Este análisis proporciona una visión clara del impacto potencial de una inversión de 500 euros en una campaña de Facebook Ads dirigida al sector educativo.
 
 ![La tasa de conversion de todas las industrias de Facebook Ads.](img/facebook.png){ width=80% }
 
