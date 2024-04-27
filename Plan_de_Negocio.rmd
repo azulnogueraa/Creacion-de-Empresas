@@ -894,6 +894,30 @@ La inversión total del capital social de la empresa después de estas contribuc
 
 
 
+| Número de Clientes | Métrica de Recurrencia | Conversión Anual |
+|--------------------|------------------------|------------------|
+| 935                | 12                     | 11,220           |
+
+| Años                          | 1        | 2        | 3        | 4        | 5        |
+|-------------------------------|----------|----------|----------|----------|----------|
+| **Conversión por Publicidad** | 11,220   | 11,220   | 11,220   | 11,220   | 11,220   |
+| 100% Retenciones              | 0        | 11,220   | 25,806   | 44,768   | 69,418   |
+| 30% Referencia                | 0        | 3,366    | 7,742    | 13,430   | 20,826   |
+| **Conversión Total Anual**    | 11,220   | 25,806   | 44,768   | 69,418   | 101,464  |
+| **Ingresos de Ventas**        | 673,200  | 1,548,360| 2,686,068| 4,165,100| 6,087,810|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
