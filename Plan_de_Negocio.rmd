@@ -154,8 +154,8 @@ En conclusión, la rápida evolución tecnológica y la transformación del pais
 
 \vspace{10mm}
 
-- Ahora responde teniendo en cuenta lo siguiente:
-  Nosotros nos especializamos en ofrecer una plataforma de educación en línea altamente sofisticada,     diseñada para brindar un aprendizaje personalizado y de calidad superior. Nuestra plataforma se distingue por su enfoque en la adaptabilidad, permitiendo que cada usuario reciba una experiencia educativa adaptada a sus preferencias y ritmos individuales de aprendizaje. Desde la selección de contenido hasta la interacción con instructores, nuestro objetivo es garantizar que cada estudiante pueda alcanzar su máximo potencial de manera efectiva y satisfactoria.
+Ahora responde teniendo en cuenta lo siguiente:
+Nosotros nos especializamos en ofrecer una plataforma de educación en línea altamente sofisticada, diseñada para brindar un aprendizaje personalizado y de calidad superior. Nuestra plataforma se distingue por su enfoque en la adaptabilidad, permitiendo que cada usuario reciba una experiencia educativa adaptada a sus preferencias y ritmos individuales de aprendizaje. Desde la selección de contenido hasta la interacción con instructores, nuestro objetivo es garantizar que cada estudiante pueda alcanzar su máximo potencial de manera efectiva y satisfactoria.
   
 - Sabiendo que nuestra plataforma se encuentra preparada con IA para resolver esos problemas, ¿que tan probable seria que te subscribas mensualmente?
   a. 1
@@ -782,7 +782,7 @@ Es fundamental destacar que el costo de amueblar el espacio se amortizará a lo 
 
 [^18]: FUENTE: [ibm.com](https://www.ibm.com/es-es/products/power-s1014)
 
-Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desarrollo y soporte técnico, hemos invertido en computadoras de última generación con capacidades de procesamiento y memoria adecuadas para tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma. Estimamos un costo de aproximadamente 2,000€ por computadora, lo que totaliza una inversión inicial de 12,000€ para seis equipos. Dado que estos equipos tienen una vida útil de aproximadamente 5 años, planeamos amortizar esta inversión a lo largo de este periodo, distribuyendo los costos a lo largo del tiempo para reflejar adecuadamente su valor a lo largo de su ciclo de vida útil.
+- Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desarrollo y soporte técnico, hemos invertido en computadoras de última generación con capacidades de procesamiento y memoria adecuadas para tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma. Estimamos un costo de aproximadamente 2,000€ por computadora, lo que totaliza una inversión inicial de 12,000€ para seis equipos. Dado que estos equipos tienen una vida útil de aproximadamente 5 años, planeamos amortizar esta inversión a lo largo de este periodo, distribuyendo los costos a lo largo del tiempo para reflejar adecuadamente su valor a lo largo de su ciclo de vida útil.
 
 **Infraestructura:**
 
@@ -893,6 +893,13 @@ La inversión total del capital social de la empresa después de estas contribuc
 | **Beneficio Neto**       |         | **413,202** | **1,157,088** | **2,124,099** | **3,381,249** | **5,015,544** |
 
 
+**Detalle de ingreso de ventas**
+
+El número de clientes obtenidos según el inciso 10.3, multiplicado por la métrica de recurrencia explicada en el apartado 9.2, resulta en una conversión anual de 11,220.
+
+Basándonos en este número y considerando una retención anual del 100% y una tasa de recurrencia del 30% obtenida de la entrevista descrita en el apartado 3, calculamos la conversión total de cada año fiscal.
+
+Multiplicando las conversiones anuales por el precio de cada suscripción, podemos determinar los ingresos de ventas anuales.
 
 | Número de Clientes | Métrica de Recurrencia | Conversión Anual |
 |--------------------|------------------------|------------------|
@@ -903,7 +910,7 @@ La inversión total del capital social de la empresa después de estas contribuc
 | **Conversión por Publicidad** | 11,220   | 11,220   | 11,220   | 11,220   | 11,220   |
 | 100% Retenciones              | 0        | 11,220   | 25,806   | 44,768   | 69,418   |
 | 30% Referencia                | 0        | 3,366    | 7,742    | 13,430   | 20,826   |
-| **Conversión Total Anual**    | 11,220   | 25,806   | 44,768   | 69,418   | 101,464  |
+| **Conversión Total**          | 11,220   | 25,806   | 44,768   | 69,418   | 101,464  |
 | **Ingresos de Ventas**        | 673,200  | 1,548,360| 2,686,068| 4,165,100| 6,087,810|
 
 
