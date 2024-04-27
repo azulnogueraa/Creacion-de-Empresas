@@ -668,7 +668,7 @@ Este análisis proporciona una visión clara del impacto potencial de una invers
 
 \textbf{Paso 1: Determinar el Número de Impresiones}
 
-Asignamos un presupuesto de 500 euros para la campaña. Aunque no se proporciona un dato específico para el CPM de Google Ads en España en los enlaces proporcionados, se puede inferir que el CPM en España para Google Ads podría estar en un rango similar al global, alrededor de 2.40 euros. El total de impresiones que podemos obtener se calcula de la siguiente manera:
+Asignamos un presupuesto de 500 euros para la campaña. Con un Costo Por Mil impresiones (CPM) de 2.40 euros, el total de impresiones que podemos obtener se calcula de la siguiente manera:
 
 \[
 \text{Impresiones Totales} = \frac{500 \, \text{euros} \times 1000}{2.40 \, \text{euros por mil impresiones}} = 208,333 \, \text{impresiones aproximadamente}
@@ -698,7 +698,7 @@ Este análisis proporciona una visión clara del impacto potencial de una invers
 
 \textbf{Paso 1: Determinar el Número de Impresiones}
 
-Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08\% [^15]. Respecto al CTR para Instagram Ads, este se encuentra en el 0.52\% [^16]. De acuerdo con la información de Dinamiza Digital, el CPM promedio en España para Instagram Ads varía entre 1,97€ y 5,39€. Tomando un valor medio de 3,68€. El total de impresiones que podemos obtener se calcula de la siguiente manera:
+Asignamos un presupuesto de 500 euros para la campaña. Con un Costo Por Mil impresiones (CPM) de 3.68 euros, el total de impresiones que podemos obtener se calcula de la siguiente manera:
 
 \[
 \text{Impresiones Totales} = \frac{500 \, \text{euros} \times 1000}{3.68 \, \text{euros por mil impresiones}} = 135,870 \, \text{impresiones aproximadamente}
@@ -706,7 +706,7 @@ Aunque los datos específicos para el sector educativo no están disponibles, es
 
 \textbf{Paso 2: Calcular los Clics Esperados}
 
-Utilizando un CTR del 0.52\%, estimamos el número de clics que estas impresiones generarán:
+Respecto al CTR para Instagram Ads, este se encuentra en el 0.52\% [^16]. Haciendo uso de este dato, estimamos el número de clics que estas impresiones generarán:
 
 \[
 \text{Clics Esperados} = 135,870 \, \text{impresiones} \times \frac{0.52}{100} = 706 \, \text{clics}
@@ -714,19 +714,19 @@ Utilizando un CTR del 0.52\%, estimamos el número de clics que estas impresione
 
 \textbf{Paso 3: Estimar las Conversiones}
 
-Considerando una tasa de conversión promedio del 1.08\%, calculamos el número de conversiones esperadas de los usuarios que hicieron clic:
+Aunque los datos específicos para el sector educativo no están disponibles, es importante tener en cuenta que el conversion rate promedio para Instagram Ads se sitúa en aproximadamente el 1.08\% [^15]. Utilizando este dato, calculamos el número de conversiones esperadas de los usuarios que hicieron clic:
 
 \[
 \text{Conversiones Esperadas} = 706 \, \text{clics} \times \frac{1.08}{100} = 8 \, \text{conversiones}
 \]
 
-Este análisis proporciona una visión clara del impacto potencial de una inversión de 500 euros en una campaña de Instagram Ads dirigida al sector educativo.
+Este análisis proporciona una visión clara del impacto potencial de una inversión de 500 euros en una campaña de Instagram Ads.
 
 **Numero final de clientes**
 
 Es crucial tener en cuenta que las tasas de conversión y los CTR pueden variar según diversos factores, como la estrategia de marketing, la calidad del contenido y la relevancia de las campañas publicitarias en cada plataforma. Por lo tanto, es esencial realizar un seguimiento continuo y ajustar nuestras estrategias según los resultados obtenidos para maximizar el rendimiento de nuestras inversiones en publicidad digital.
 
-En resumen, al considerar las estimaciones de clientes generados a través de las campañas publicitarias en Facebook Ads, Instagram Ads y Google Ads, se proyecta un total de 935 nuevos clientes potenciales.
+En resumen, al considerar las estimaciones de clientes generados a través de las campañas publicitarias en Facebook Ads, Instagram Ads y Google Ads, se proyecta un total de 935 nuevos clientes.
 
 [^11]: FUENTE: [Facebook Ad Benchmarks for YOUR Industry.](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)
 
