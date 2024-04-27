@@ -508,7 +508,7 @@ Lo que nos diferencia significativamente de plataformas como Coursera, Udemy y D
 
 Además, nuestro servicio ofrece un sólido respaldo a través de una interacción constante. Proporcionamos ayuda y feedback continuo a nuestros usuarios, asegurando que puedan maximizar su experiencia de aprendizaje y obtener resultados concretos en su formación.
 
-Por esta razón, hemos decidido estipular un precio de $60 dólares estadounidenses mensuales para la suscripción a nuestro servicio. 
+Por esta razón, hemos decidido estipular un precio de 60€ mensuales para la suscripción a nuestro servicio. 
 
 ### 9.4. TAM (Mercado Total)
 
@@ -766,7 +766,7 @@ Con este enfoque, lanzaremos un producto inicial sólido que destaque por la cal
 
 **Localización**
 
-En los primeros años de funcionamiento, contaremos con un piso alquilado que servirá como lugar para alojar nuestros servidores y como oficina de trabajo. El alquiler mensual de este espacio está establecido en \$7700 [^17]. Además, para acondicionar adecuadamente este espacio y hacerlo funcional como área de trabajo y alojamiento para los servidores, planeamos invertir aproximadamente \$3000 en mobiliario y equipamiento de oficina. Esta inversión incluirá la compra de escritorios, sillas, estanterías y otros elementos necesarios para un entorno de trabajo cómodo y eficiente.
+En los primeros años de funcionamiento, contaremos con un piso alquilado que servirá como lugar para alojar nuestros servidores y como oficina de trabajo. El alquiler mensual de este espacio está establecido en 7700€ [^17]. Además, para acondicionar adecuadamente este espacio y hacerlo funcional como área de trabajo y alojamiento para los servidores, planeamos invertir aproximadamente 3000€ en mobiliario y equipamiento de oficina. Esta inversión incluirá la compra de escritorios, sillas, estanterías y otros elementos necesarios para un entorno de trabajo cómodo y eficiente.
 
 Es fundamental destacar que el costo de amueblar el espacio se amortizará a lo largo de los próximos cinco años, reflejando la vida útil esperada de los muebles y equipos de oficina. Esta inversión inicial nos permitirá contar con un entorno adecuado para operar eficazmente y albergar nuestra infraestructura tecnológica.
 
@@ -776,11 +776,11 @@ Es fundamental destacar que el costo de amueblar el espacio se amortizará a lo 
 
 **Medios Técnicos:**
 
-- Servidores de Alta Capacidad: Con el fin de asegurar la escalabilidad y la robustez de nuestra plataforma de educación en línea, planeamos adquirir tres servidores IBM Power S1014 [^18]. Estos servidores son reconocidos por su alto rendimiento en procesamiento y su capacidad de expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. El costo estimado de cada servidor es de aproximadamente \$15,000, lo que resulta en una inversión inicial total de \$45,000 para esta adquisición.
+- Servidores de Alta Capacidad: Con el fin de asegurar la escalabilidad y la robustez de nuestra plataforma de educación en línea, planeamos adquirir tres servidores IBM Power S1014 [^18]. Estos servidores son reconocidos por su alto rendimiento en procesamiento y su capacidad de expansión, lo que los hace ideales para manejar grandes volúmenes de datos y transacciones en tiempo real. El costo estimado de cada servidor es de aproximadamente 15,000€, lo que resulta en una inversión inicial total de 45,000€ para esta adquisición.
 
 [^18]: FUENTE: [ibm.com](https://www.ibm.com/es-es/products/power-s1014)
 
-Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desarrollo y soporte técnico, hemos invertido en computadoras de última generación con capacidades de procesamiento y memoria adecuadas para tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma. Estimamos un costo de aproximadamente \$2,000 dólares por computadora, lo que totaliza una inversión inicial de \$12,000 dólares para seis equipos. Dado que estos equipos tienen una vida útil de aproximadamente 5 años, planeamos amortizar esta inversión a lo largo de este periodo, distribuyendo los costos a lo largo del tiempo para reflejar adecuadamente su valor a lo largo de su ciclo de vida útil.
+Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desarrollo y soporte técnico, hemos invertido en computadoras de última generación con capacidades de procesamiento y memoria adecuadas para tareas exigentes en el desarrollo de software y el mantenimiento de la plataforma. Estimamos un costo de aproximadamente 2,000€ por computadora, lo que totaliza una inversión inicial de 12,000€ para seis equipos. Dado que estos equipos tienen una vida útil de aproximadamente 5 años, planeamos amortizar esta inversión a lo largo de este periodo, distribuyendo los costos a lo largo del tiempo para reflejar adecuadamente su valor a lo largo de su ciclo de vida útil.
 
 **Infraestructura:**
 
@@ -792,14 +792,14 @@ Equipos Informáticos: Para respaldar las operaciones de nuestro equipo de desar
 
 **Inversión:**
 
-- Costos de Implementación: Además de la compra de los servidores, se invertirán aproximadamente \$2,000 en la instalación y configuración inicial, asegurando que la infraestructura tecnológica esté óptimamente preparada para soportar nuestras operaciones desde el inicio.
+- Costos de Implementación: Además de la compra de los servidores, se invertirán aproximadamente 2,000€ en la instalación y configuración inicial, asegurando que la infraestructura tecnológica esté óptimamente preparada para soportar nuestras operaciones desde el inicio.
 
-| Categoría                             | Detalle                                | Costo (USD)    |
+| Categoría                             | Detalle                                | Costo (euros)  |
 |---------------------------------------|----------------------------------------|----------------|
-| Servidores de Alta Capacidad          | 3 x IBM Power S1014                    | $45,000        |
-| Instalación y Configuración           | Configuración inicial de servidores    | $2,000         |
-| Equipos informáticos                  | 6 x Dell Precision 5470                | $12,000        |
-| Equipamiento oficinas                 | Sillas, escritorios, estanterías       | $3,000         |
+| Servidores de Alta Capacidad          | 3 x IBM Power S1014                    |  45,000        |
+| Instalación y Configuración           | Configuración inicial de servidores    |  2,000         |
+| Equipos informáticos                  | 6 x Dell Precision 5470                |  12,000        |
+| Equipamiento oficinas                 | Sillas, escritorios, estanterías       |  3,000         |
 | **Total Estimado**                    |                                        | **62,000**     |
 
 
@@ -842,53 +842,53 @@ Esta planificación estratégica de la inversión en infraestructura tecnológic
 
 ### 12.1. Necesidades económicas del proyecto
 
-| Categoria                    | Costo (USD) |
+| Categoria                    | Costo (euros) |
 |------------------------------|------------:|
 | **Instalaciones, Medios y Equipos** |             |
-| Servidores                   |     $45,000 |
-| Instalación y Configuración  |      $2,000 |
-| Equipos informáticos         |     $12,000 |
-| Equipamiento oficinas        |      $3,000 |
-| Renta (Anual)                |     $92,400 |
-| **Total estimado**           |    **$154,400** |
+| Servidores                   |      45,000 |
+| Instalación y Configuración  |       2,000 |
+| Equipos informáticos         |      12,000 |
+| Equipamiento oficinas        |       3,000 |
+| Renta (Anual)                |      92,400 |
+| **Total estimado**           |    **154,400** |
 |                              |             |
 | **Costos de marketing**      |             |
-| Facebook ads                 |        $500 |
-| Instagram ads                |        $500 |
-| Google ads                   |        $500 |
-| **Total Estimado**           |     **$1,500** |
+| Facebook ads                 |         500 |
+| Instagram ads                |         500 |
+| Google ads                   |         500 |
+| **Total Estimado**           |     **1,500** |
 |                              |             |
-| **Total De Inversion**       |   **$155,900** |
+| **Total De Inversion**       |   **155,900** |
 
 
 ### 12.2 Fuentes de Financiacion
 
 **Crowdfunding de Capital**
 
-La empresa buscará obtener fondos mediante una campaña de crowdfunding, involucrando a pequeños inversores que contribuyan financieramente a cambio de acciones de la empresa. Estas acciones representarán su participación en la plataforma. Los términos y condiciones asociados incluirán aspectos como el porcentaje de participación en la empresa, derechos de voto en asuntos importantes, acceso a dividendos en caso de rentabilidad y posibles derechos preferenciales en caso de liquidación. La empresa ha asegurado un capital de $80,000 mediante crowdfunding, lo que equivale al 50% del capital social.
+La empresa buscará obtener fondos mediante una campaña de crowdfunding, involucrando a pequeños inversores que contribuyan financieramente a cambio de acciones de la empresa. Estas acciones representarán su participación en la plataforma. Los términos y condiciones asociados incluirán aspectos como el porcentaje de participación en la empresa, derechos de voto en asuntos importantes, acceso a dividendos en caso de rentabilidad y posibles derechos preferenciales en caso de liquidación. La empresa ha asegurado un capital de 80,000€ mediante crowdfunding, lo que equivale al 50% del capital social.
 
 **Inversión de Capital del Equipo Promotor**
 
-El equipo fundador de la plataforma también contribuirá con una parte significativa del capital necesario para financiar el proyecto. Esta inversión refleja un sólido compromiso por parte del equipo con la visión y el éxito de la plataforma. La inversión personal del equipo fundador resalta la confianza en el potencial de la plataforma y puede servir como una señal positiva para los inversores externos interesados en participar en nuestra empresa. El equipo fundador aportará $80,000 de capital personal, lo que equivale al 50% del capital social de la empresa.
+El equipo fundador de la plataforma también contribuirá con una parte significativa del capital necesario para financiar el proyecto. Esta inversión refleja un sólido compromiso por parte del equipo con la visión y el éxito de la plataforma. La inversión personal del equipo fundador resalta la confianza en el potencial de la plataforma y puede servir como una señal positiva para los inversores externos interesados en participar en nuestra empresa. El equipo fundador aportará 80,000€ de capital personal, lo que equivale al 50% del capital social de la empresa.
 
-La inversión total del capital social de la empresa después de estas contribuciones ascenderá a $160,000, superando así nuestra inversión inicial en el proyecto. Este aumento en el capital social se destina a proporcionar márgenes de seguridad durante los primeros años de operación de la empresa.
+La inversión total del capital social de la empresa después de estas contribuciones ascenderá a 160,000€, superando así nuestra inversión inicial en el proyecto. Este aumento en el capital social se destina a proporcionar márgenes de seguridad durante los primeros años de operación de la empresa.
 
 
 \newpage
 
-### 12.3. Presupuesto
+### 12.3. Presupuesto (en euros)
 
 |        Años          | 0       | 1         | 2           | 3           | 4           | 5           |
 |----------------------|---------|-----------|-------------|-------------|-------------|-------------|
-| Ingreso de ventas    |         | $ 673,200 | $ 1,548,360 | $ 2,686,020 | $ 4,165,020 | $ 6,087,720 |
-| Gastos totales       |         | $ 155,900 | $ 155,900   | $ 155,900   | $ 155,900   | $ 155,900   |
-| EBITDA               |         | $ 517,300 | $ 1,392,460 | $ 2,530,120 | $ 4,009,120 | $ 5,931,820 |
-| Gastos financieros   |         | $ 0       | $ 0         | $ 0         | $ 0         | $ 0         |
-| Amortizaciones       |         | $ 31,180  | $ 31,180    | $ 31,180    | $ 31,180.   | $ 31,180    |
-| BAIT                 |         | $ 486,120 | $ 1,361,280 | $ 2,498,940 | $ 3,977,940 | $ 5,900,640 |
-| Impuesto 15%         |         |  $ 72,918 | $ 204,192   | $ 374,841   | $ 596,691   | $ 885,096   |
-| Inversion            |$155,900 | $ 0       | $ 0         | $ 0         | $ 0         |             |
-| **Beneficio Neto**       |         | **$ 413,202** | **$ 1,157,088** | **$ 2,124,099** | **$ 3,381,249** | **$ 5,015,544** |
+| Ingreso de ventas    |         |   673,200 |   1,548,360 |   2,686,020 |   4,165,020 |   6,087,720 |
+| Gastos totales       |         |   155,900 |   155,900   |   155,900   |   155,900   |   155,900   |
+| EBITDA               |         |   517,300 |   1,392,460 |   2,530,120 |   4,009,120 |   5,931,820 |
+| Gastos financieros   |         |   0       |   0         |   0         |   0         |   0         |
+| Amortizaciones       |         |   31,180  |   31,180    |   31,180    |   31,180    |   31,180    |
+| BAIT                 |         |   486,120 |   1,361,280 |   2,498,940 |   3,977,940 |   5,900,640 |
+| Impuesto 15%         |         |    72,918 |   204,192   |   374,841   |   596,691   |   885,096   |
+| Inversion            | 155,900 |   0       |   0         |   0         |   0         |             |
+| **Beneficio Neto**       |         | **413,202** | **1,157,088** | **2,124,099** | **3,381,249** | **5,015,544** |
 
 
 
