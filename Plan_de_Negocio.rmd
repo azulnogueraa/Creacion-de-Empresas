@@ -22,7 +22,7 @@ bibliography: bibliography.bib
 
 ## 1. Introducción
 
-### 1.1. CNAE (Clasificación Nacional de Entidades Económicas)
+### 1.1. CNAE (Clasificación Nacional de Actividades Económicas)
 
 Educación.
 
